@@ -5,9 +5,11 @@ title: "Overview"
 
 <!-- ## Overview -->
 
-![alt text][logo]
+# Freelancer Protocol
 
-[logo]: /images/logo100.png "Logo Title Text 2" # Freelancer Protocol
+ <p align="center">
+  <img src="/images/logo.png" alt="accessibility text">
+</p>
 
 <!-- Reference-style:
 ![alt text][logo] -->
