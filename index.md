@@ -8,4 +8,8 @@ title: "What it's for"
 It's simple of use, free and fair to both parties.
 {: .fs-6 .fw-300 }
 
-![GitHub Logo](/images/logo.png)
+ <p align="center">
+  <img src="/images/logo.png" alt="accessibility text">
+</p>
+
+<!-- ![GitHub Logo](/images/logo.png) -->

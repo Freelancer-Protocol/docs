@@ -19,13 +19,9 @@ Each milestone  -->
 
 3. If the client accepts the demo, he received the deliverable and the freelancer receives the money.
 
-If things go south
-
-tThe client isWe charge the client when a milestone start, and the excahnge of payments only occurs after the client
-
 ## If things go south
 
-### 1. If the client rejects the demo
+### 1. The client rejects the demo
 
 If the client rejects the demo for a given milestone, only a third of the agreed sum will be paid to the freelancer. The rest will be paid back to the client.
 
