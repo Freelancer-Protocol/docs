@@ -7,7 +7,9 @@ title: "Overview"
 
 # Freelancer Protocol
 
-![GitHub Logo](/images/logo100.png)
+![alt text][logo]
+
+[logo]: /images/logo100.png "Logo Title Text 2"
 
 <!-- ![GitHub Logo](/images/logo.png) -->
 
