@@ -34,19 +34,19 @@ The risk of the freelancer delivering late or not at all is gone. You don't pay 
 
 The risk of the client paying late or not at all is gone. The client doesn't receive anything unless you're paid in full.
 
-##### For both parties
-
-Dividing a single project into multiple milestones with explicit description enables better planning and visibility. It allows and a more gradual investment (of time for the freelancer and money for the client).
+<!-- ##### For both parties -->
 
 ### 📜 Reduced legal hassle
 
 Each milestone is covered by a contract and we generate invoices.
 
-### 🛠 A pleasant project management tool
+### 🛠 A project management tool
 
 <!-- ☀️🖥🔦 -->
 
-We're putting UX first to make Freelancer Protocol a great tool to manage projects on.
+Dividing a single project into multiple milestones enables better planning and visibility. It allows for a more gradual investment (of time for the freelancer and money for the client).
+
+We're putting UX first to make Freelancer Protocol a pleasant tool to manage projects on.
 
 ---
 
