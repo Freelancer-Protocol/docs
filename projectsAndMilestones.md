@@ -6,7 +6,7 @@ nav_order: 2
 
 ### Projects and Milestones
 
-A project has a single client and a single freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
+A project is between one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
 
  <!-- The project is divided into one or more milestones.
 Each milestone  -->
@@ -38,5 +38,5 @@ Only a third of the agreed sum for the milestone is paid to the freelancer. The 
 If both the demo and the deliverable are not uploaded by the milestone deadline, the client is free to either:
 
 - cancel the milestone and get the entire sum back
-- request a m
-- extend the milestone by assigning it a new deadline, (and can charge late fees by changing the agreed amount)
+- extend the milestone by assigning it a new deadline,
+  > The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms.
