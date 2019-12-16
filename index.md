@@ -5,7 +5,7 @@ title: "Overview"
 
 # Use Freelancer Protocol to exchange deliverable against payment outside of freelancer platforms.
 
-It's free, easy to use, and fair to both parties.
+It's free, easy to use and fair to both parties.
 {: .fs-6 .fw-300 }
 
  <p align="center">
@@ -18,7 +18,7 @@ It's free, easy to use, and fair to both parties.
 
 ### 💵 Say goodbye to fees
 
-Platforms usually charge between 10% and 15% fee to match people together. It's a real service, and makes sense to pay the price for the first months of the relationship.
+Platforms usually charge a fee that ranges between 10% and 15% to match people together. It's a real service, and makes sense to pay the price for the first months of the relationship.
 
 However, it stops making sense when the parties have known each other for a while or have met outside the platform. They usually try to have a direct relationship and it usually is a mess.
 
