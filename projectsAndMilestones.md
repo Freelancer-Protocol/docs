@@ -6,14 +6,16 @@ nav_order: 2
 
 ### What they are
 
-A project has a single client and a signle freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
+A project has a single client and a single freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
 
  <!-- The project is divided into one or more milestones.
 Each milestone  -->
 
 ### Lifecyle of a milestone
 
-1. A milestone start when both parties agree on terms. The client is charged right away by the platform.
+1. A milestone start when both parties agree on its terms. The client is charged right away by the platform.
+
+> For this reason, the milestone can't start until the client has entered their payment info.
 
 2. The freelancer has to upload both a demo video and the deliverable before the milestone deadline.
 
@@ -25,9 +27,9 @@ Each milestone  -->
 
 If the client rejects the demo for a given milestone, only a third of the agreed sum will be paid to the freelancer. The rest will be paid back to the client.
 
-A client that constantly rejects demos that follow the guidelines given in the milestones description and enclosed designs is facing exclusion from the platform.
+> ⚠️ A client that constantly rejects demos that follow the guidelines given in the milestones description and enclosed designs is facing exclusion from the platform.
 
-In the same way, a freelancer that uploads misleading demos of deliverables also faces exclusion.
+> ⚠️ In the same way, a freelancer that uploads misleading demos of deliverables also faces exclusion.
 
 ### 2. The freelancer is late
 
