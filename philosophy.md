@@ -1,6 +1,7 @@
 ---
 nav_order: 4
 title: "Philosophy"
+nav_exclude: true
 ---
 
 ## Freelancing needs a platform
