@@ -5,13 +5,13 @@ title: "Overview"
 
 <!-- ## Overview -->
 
-#Freelancer Protocol
+# Freelancer Protocol
 
 ![GitHub Logo](/images/logo.png)
 
 ---
 
-<!-- # Exchange deliverable against payment outside of freelancer platforms. -->
+# Use Freelancer Protocol to exchange deliverable against payment outside of freelancer platforms.
 
 Exchange deliverable against payment outside of freelancer platforms.
 {: .fs-6 .fw-300 }
