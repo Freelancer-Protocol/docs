@@ -1,24 +1,13 @@
 ---
-nav_order: 1
-title: "What it's for"
+nav_order: 5
+title: "Philosophy"
 ---
 
-<!-- ## Overview -->
+## Freelancing needs a platform
 
-<!-- # Freelancer Protocol -->
+## Some things should be free...
 
- <p align="center">
-  <img src="/images/logo.png" alt="accessibility text">
-</p>
-
-<!-- Reference-style:
-![alt text][logo] -->
-
-<!-- [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" -->
-
-<!-- ![GitHub Logo](/images/logo.png) -->
-
-# Use Freelancer Protocol to exchange deliverable against payment outside of freelancer platforms.
+## ... and the other things should be optional
 
 It's simple of use, free and fair to both parties.
 {: .fs-6 .fw-300 }

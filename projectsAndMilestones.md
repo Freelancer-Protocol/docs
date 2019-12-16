@@ -4,13 +4,14 @@ nav_order: 2
 
 ## Projects and Milestones
 
-### Basic definitions
+### What they are
 
-Each project has a one client and a one freelancer.
-A project is divided into one or more milestones.
-Each milestone has its own associated deliverable, price and deadline.
+A project has a single client and a signle freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
 
-### Lifcecyle of a milestone
+ <!-- The project is divided into one or more milestones.
+Each milestone  -->
+
+### Lifecyle of a milestone
 
 1. A milestone start when both parties agree on terms. The client is charged right away by the platform.
 
@@ -21,3 +22,19 @@ Each milestone has its own associated deliverable, price and deadline.
 If things go south
 
 tThe client isWe charge the client when a milestone start, and the excahnge of payments only occurs after the client
+
+## If things go south
+
+### 1. If the client rejects the demo
+
+If the client rejects the demo for a given milestone, only a third of the agreed sum will be paid to the freelancer. The rest will be paid back to the client.
+
+A client that constantly rejects demos that follow the guidelines given in the milestones description and enclosed designs is facing exclusion from the platform.
+
+In the same way, a freelancer that uploads misleading demos of deliverables also faces exclusion.
+
+### 2. The freelancer is late
+
+If both the demo and the deliverable are not uploaded by the milestone deadline, the client can cancel the milestone and get the entire sum back.
+
+The client can also, if they wish, extend the milestone by assigning it a new deadline, and has the full discretion to charge late fees by changing the agreed amount.
