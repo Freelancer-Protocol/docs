@@ -9,7 +9,7 @@ title: "Overview"
 
 ![GitHub Logo](/images/logo100.png)
 
-![GitHub Logo](/images/logo.png)
+<!-- ![GitHub Logo](/images/logo.png) -->
 
 ---
 
