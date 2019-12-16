@@ -1,10 +1,9 @@
 ---
-nav_order: 0
+# nav_order: 0
 title: "Overview"
-has_children: true
----
-
-<!-- ## Overview -->
+# has_children: true
+nav_exclude: true
+---<!-- ## Overview -->
 
 # Exchange deliverable against payment outside of freelancer platforms.
 
@@ -38,9 +37,7 @@ Freelancing needs a Protocol enables freelancers and their clients to trade deli
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
----
-
-## In a nutshell
+---## In a nutshell
 
 ## Lifecycle of a milestone
 
