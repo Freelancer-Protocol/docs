@@ -11,11 +11,17 @@ Freelancer Protocol is simple of use, free and fair to both parties.
 
 ## Introduction
 
-## What
+<!-- ## What -->
 
-### Basically
+### Lifcecyle of a milestone
 
-We charge the client when a milestone start, and the excahnge of payments only occurs after the client
+1. A milestone start when both parties agree on terms. The client is charged right away by the platform.
+
+2. The freelancer has to upload both a demo video and the deliverable before the milestone deadline.
+
+3. If the client accepts the demo, he received the deliverable and the freelancer receives the money.
+
+tThe client isWe charge the client when a milestone start, and the excahnge of payments only occurs after the client
 
 ![GitHub Logo](/images/pic.png)
 
