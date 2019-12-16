@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+title: "Protocol Documentation"
 aux_links:
   "Back to Dashboard":
     - "//www.freelancerprotocol.com/"
