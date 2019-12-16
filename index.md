@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: "What it's for"
+title: "Overview"
 ---
 
 # Use Freelancer Protocol to exchange deliverable against payment outside of freelancer platforms.
@@ -20,7 +20,7 @@ It's simple of use, free and fair to both parties.
 
 Platforms usually charge between 10% and 15% fee to match people together. It's a real service, and makes sense to pay the price for the first months of the relationship.
 
-However, it stops making sense when the parties have known each other for a while or have met outside the platform. So they then try to take the relationship directly and it usually is a mess.
+However, it stops making sense when the parties have known each other for a while or have met outside the platform. They usually try to have a direct relationship and it usually is a mess.
 
 ### ⛑ Increased reliability
 
@@ -36,7 +36,7 @@ The risk of the client paying late or not at all is gone. The client doesn't get
 
 ##### For both parties
 
-Dividing a single project into multiple milestones enables better planning, visibility and a more gradual investment (of time for the freelancer and money for the client).
+Dividing a single project into multiple milestones with explicit description enables better planning, visibility and a more gradual investment (of time for the freelancer and money for the client).
 
 ### 📜 Reduced legal hassle
 
@@ -46,6 +46,6 @@ Each milestone is covered by a contract and we generate invoices.
 
 <!-- ☀️🖥🔦 -->
 
-We're making Freelancer Protocol a pleasant platform to manage projects on.
+We're placing UX first to make Freelancer Protocol a pleasant platform to manage projects on.
 
 <!-- ![GitHub Logo](/images/logo.png) -->
