@@ -16,36 +16,35 @@ It's simple of use, free and fair to both parties.
 
 ## Why do I need this?
 
-### Say goodbye to fees
+### 💵 Say goodbye to fees
 
 Platforms usually charge between 10% and 15% fee to match people together. It's a real service, and makes sense to pay the price for the first months of the relationship.
 
 However, it stops making sense when the parties have known each other for a while or have met outside the platform. So they then try to take the relationship directly and it usually is a mess.
 
-### Increased reliability
+### ⛑ Increased reliability
 
-**From a client perspective**
+<!-- 🔒 -->
 
-#### For the client
+##### From a client perspective
 
-##### For the client
+The risk of the freelancer delivering late or not at all is gone.
 
-the risk of the freelancer delivering late or not at all is gone.
+##### From a freelancer perspective
+
 From a freelancer perspective, the risk of the client paying late or not at all is gone.
 
-**From a freelancer perspective**
+##### For both parties
 
-#### For the frelancer
+Dividing a single project into multiple milestones enables better planning, visibility and gradual involvment.
 
-##### For the freelancer
-
-for both
-
-### Reduced legal hassle
+### 📜 Reduced legal hassle
 
 Each milestone is covered by a contract and we generate invoices.
 
-### A nice project management tool
+### 🛠 A pleasant project management tool
+
+<!-- ☀️🖥🔦 -->
 
 We're making Freelancer Protocol a pleasant platform to manage projects on.
 
