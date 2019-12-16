@@ -4,5 +4,5 @@ remote_theme: pmarsceill/just-the-docs
 title: "Documentation"
 # logo: "https://www.freelancerprotocol.com/logo192.png"
 aux_links:
-  "Back to Freelancer Protocol":
+  "Go to Freelancer Protocol":
     - "//www.freelancerprotocol.com/"

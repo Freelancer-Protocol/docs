@@ -13,17 +13,19 @@ Each milestone  -->
 
 ### Lifecyle of a milestone
 
-1. A milestone start when both parties agree on its terms. The client is charged right away by the platform. For this reason, the milestone can't start until the client has entered their payment info.
+1. A milestone start when both parties agree on its terms. The client is charged right away by the platform.
 
-2) The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
+   > For this reason, the milestone can't start until the client has entered their payment info.
 
-3) If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
+2. The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
+
+3. If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
 
 Note that during a milestone lifetime, anyone of the two parties can request a modification to the milestone. The changes will have to be accepted by the other party in order to become effective.
 
 ## If things go south
 
-### 1. The client rejects the demo
+### 1. If the client rejects the demo
 
 Only a third of the agreed sum for the milestone is paid to the freelancer. The rest is paid back to the client.
 
@@ -31,7 +33,7 @@ Only a third of the agreed sum for the milestone is paid to the freelancer. The 
 
 > ⚠️ In the same way, a freelancer that uploads misleading demos of deliverables also faces exclusion.
 
-### 2. The freelancer is late
+### 2. If the freelancer is late
 
 If both the demo and the deliverable are not uploaded by the milestone deadline, the client is free to either:
 

@@ -32,7 +32,7 @@ The risk of the freelancer delivering late or not at all is gone. You don't pay 
 
 ##### From a freelancer perspective
 
-The risk of the client paying late or not at all is gone. The client doesn't get anything unless you get the payment in full.
+The risk of the client paying late or not at all is gone. The client doesn't receive anything unless you're paid in full.
 
 ##### For both parties
 
@@ -46,6 +46,6 @@ Each milestone is covered by a contract and we generate invoices.
 
 <!-- ☀️🖥🔦 -->
 
-We're placing UX first to make Freelancer Protocol a pleasant platform to manage projects on.
+We're putting UX first to make Freelancer Protocol a pleasant platform to manage projects on.
 
 <!-- ![GitHub Logo](/images/logo.png) -->
