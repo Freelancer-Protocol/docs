@@ -13,7 +13,7 @@ It is simple of use, free and fair to both parties.{: .fs-2 }
 
 ## Introduction
 
-![GitHub Logo](/images/pic.png)
+<!-- ![GitHub Logo](/images/pic.png) -->
 
 <!-- Format: ![Alt Text](url) -->
 
