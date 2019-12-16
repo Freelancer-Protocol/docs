@@ -26,10 +26,18 @@ However, it stops making sense when the parties have known each other for a whil
 
 **From a client perspective**
 
+#### For the client
+
+##### For the client
+
 the risk of the freelancer delivering late or not at all is gone.
 From a freelancer perspective, the risk of the client paying late or not at all is gone.
 
 **From a freelancer perspective**
+
+#### For the frelancer
+
+##### For the freelancer
 
 for both
 
