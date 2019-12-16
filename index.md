@@ -5,9 +5,9 @@ title: "Overview"
 
 <!-- ## Overview -->
 
-# Freelancer Protocol ![alt text][logo]
+![alt text][logo]
 
-[logo]: /images/logo100.png "Logo Title Text 2"
+[logo]: /images/logo100.png "Logo Title Text 2" # Freelancer Protocol
 
 <!-- Reference-style:
 ![alt text][logo] -->
