@@ -13,6 +13,17 @@ Freelancer Protocol is simple of use, free and fair to both parties.
 
 ## Introduction
 
+# Navigation Structure
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+   {:toc}
+
 <!-- ## What -->
 
 ![GitHub Logo](/images/pic.png)
@@ -36,6 +47,8 @@ Freelancing needs a Protocol enables freelancers and their clients to trade deli
 A milestone starts when both parties accept its terms.
 
 ## Getting started
+
+1. Toc
 
 ### Dependencies
 
