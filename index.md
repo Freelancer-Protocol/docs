@@ -46,6 +46,6 @@ Each milestone is covered by a contract and we generate invoices.
 
 <!-- ☀️🖥🔦 -->
 
-We're putting UX first to make Freelancer Protocol a pleasant platform to manage projects on.
+We're putting UX first to make Freelancer Protocol a great tool to manage projects on.
 
 <!-- ![GitHub Logo](/images/logo.png) -->

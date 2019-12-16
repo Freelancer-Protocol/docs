@@ -15,7 +15,7 @@ Each milestone  -->
 
 1. A milestone start when both parties agree on its terms. The client is charged right away by the platform.
 
-   > For this reason, the milestone can't start until the client has entered their payment info.
+   > 👉 For this reason, the milestone can't start until the client has entered their payment info.
 
 2. The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
 
