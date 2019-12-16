@@ -5,10 +5,16 @@ title: "Overview"
 
 <!-- ## Overview -->
 
+#Freelancer Protocol
+
+![GitHub Logo](/images/logo.png)
+
 ---
 
-# Exchange deliverable against payment outside of freelancer platforms.
+<!-- # Exchange deliverable against payment outside of freelancer platforms. -->
 
+Exchange deliverable against payment outside of freelancer platforms.
+{: .fs-6 .fw-300 }
 Freelancer Protocol is simple of use, free and fair to both parties.
 {: .fs-6 .fw-300 }
 
