@@ -5,16 +5,14 @@ title: "Overview"
 
 <!-- ## Overview -->
 
-# Freelancer Protocol
-
-![alt text][logo]
+# Freelancer Protocol ![alt text][logo]
 
 [logo]: /images/logo100.png "Logo Title Text 2"
 
-Reference-style:
-![alt text][logo]
+<!-- Reference-style:
+![alt text][logo] -->
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+<!-- [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" -->
 
 <!-- ![GitHub Logo](/images/logo.png) -->
 
