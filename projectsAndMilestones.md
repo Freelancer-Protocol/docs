@@ -6,28 +6,26 @@ nav_order: 2
 
 ### Projects and Milestones
 
-A project is between one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
+A project is has one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
 
  <!-- The project is divided into one or more milestones.
 Each milestone  -->
 
 ### Lifecyle of a milestone
 
-1. A milestone start when both parties agree on its terms. The client is charged right away by the platform.
+1. A milestone start when both parties agree on its terms. The client is charged right away by the platform. For this reason, the milestone can't start until the client has entered their payment info.
 
-> For this reason, the milestone can't start until the client has entered their payment info.
+2) The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
 
-Both parties can request to change the milestone before the deadline. The changes will have to be accepted by the other party in order to become effective.
+3) If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
 
-2. The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
-
-3. If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
+Note that during a milestone lifetime, anyone of the two parties can request a modification to the milestone. The changes will have to be accepted by the other party in order to become effective.
 
 ## If things go south
 
 ### 1. The client rejects the demo
 
-Only a third of the agreed sum for the milestone is paid to the freelancer. The rest will is paid back to the client.
+Only a third of the agreed sum for the milestone is paid to the freelancer. The rest is paid back to the client.
 
 > ⚠️ A client that constantly rejects demos that follow their own instructions (outlined in the milestone description and enclosed designs) is facing exclusion from the platform.
 
