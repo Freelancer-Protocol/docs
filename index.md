@@ -2,6 +2,8 @@
 nav_order: 0
 ---
 
+# Introduction
+
 # Freelancer Protocol enables freelancers and their clients to trade deliverable against payment, outside of freelancer platforms.
 
 # We enable freelancers and their clients to trade deliverable against payment in a way that's free, reliable and fair to both parties.
@@ -9,11 +11,12 @@ nav_order: 0
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-It is simple of use, free and fair to both parties.{: .fs-2 }
+It is simple of use, free and fair to both parties.
+{: .fs-2 }
 
 ## Introduction
 
-<!-- ![GitHub Logo](/images/pic.png) -->
+![GitHub Logo](/images/pic.png)
 
 <!-- Format: ![Alt Text](url) -->
 
