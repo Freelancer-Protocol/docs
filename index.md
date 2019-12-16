@@ -2,23 +2,20 @@
 nav_order: 0
 ---
 
-## Introduction
+## Overview
 
 # Exchange deliverable against payment outside of freelancer platforms.
 
-It's free, reliable and fair to both parties
+Freelancer Protocol is simple of use, free and fair to both parties.
 {: .fs-6 .fw-300 }
 
-## It's free, reliable and fair to both parties.
-
-<!-- # Freelancer Protocol enables freelancers and their clients to exchange deliverable against payment, outside of freelancer platforms. -->
-
-<!-- # We enable freelancers and their clients to trade deliverable against payment in a way that's free, reliable and fair to both parties. -->
-
-It is simple of use, free and fair to both parties.
-{: .fs-2 }
-
 ## Introduction
+
+## What
+
+### Basically
+
+We charge the client when a milestone start, and the excahnge of payments only occurs after the client
 
 ![GitHub Logo](/images/pic.png)
 
