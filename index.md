@@ -5,9 +5,9 @@ title: "Overview"
 
 <!-- ## Overview -->
 
-# Freelancer Protocol
+<!-- # Freelancer Protocol -->
 
- <p align="center">
+ <p align="">
   <img src="/images/logo.png" alt="accessibility text">
 </p>
 
