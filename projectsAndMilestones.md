@@ -17,7 +17,7 @@ Each milestone  -->
 
 > For this reason, the milestone can't start until the client has entered their payment info.
 
-2. The freelancer has to upload both a demo video and the deliverable before the milestone deadline.
+2. The freelancer has to upload _both_ a demo video and the deliverable before the milestone deadline.
 
 3. If the client accepts the demo, he received the deliverable and the freelancer receives the money.
 
@@ -33,6 +33,7 @@ If the client rejects the demo for a given milestone, only a third of the agreed
 
 ### 2. The freelancer is late
 
-If both the demo and the deliverable are not uploaded by the milestone deadline, the client can cancel the milestone and get the entire sum back.
+If both the demo and the deliverable are not uploaded by the milestone deadline, the client is free to either:
 
-The client can also, if they wish, extend the milestone by assigning it a new deadline, and has the full discretion to charge late fees by changing the agreed amount.
+- cancel the milestone and get the entire sum back
+- extend the milestone by assigning it a new deadline, (and can charge late fees by changing the agreed amount.)
