@@ -2,6 +2,15 @@
 nav_order: 0
 ---
 
+# Freelancer Protocol enables freelancers and their clients to trade deliverable against payment, outside of freelancer platforms. It is simple of use, free and fair to both parties.
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
+It is simple of use, free and fair to both parties.
+
+{.fs-2 }
+
 ## Introduction
 
 Freelancing needs a Protocol enables freelancers and their clients to trade deliverable against payment, outside of freelancer platforms. It is simple of use, free and fair to both parties.
@@ -15,6 +24,10 @@ Freelancing needs a Protocol enables freelancers and their clients to trade deli
 ---
 
 ## In a nutshell
+
+## Lifecycle of a milestone
+
+A milestone starts when both parties accept its terms.
 
 ## Getting started
 
