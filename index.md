@@ -5,7 +5,7 @@ title: "Overview"
 
 # Use Freelancer Protocol to exchange deliverable against payment outside of freelancer platforms.
 
-It's simple of use, free and fair to both parties.
+It's free, easy to use, and fair to both parties.
 {: .fs-6 .fw-300 }
 
  <p align="center">
@@ -36,7 +36,7 @@ The risk of the client paying late or not at all is gone. The client doesn't rec
 
 ##### For both parties
 
-Dividing a single project into multiple milestones with explicit description enables better planning, visibility and a more gradual investment (of time for the freelancer and money for the client).
+Dividing a single project into multiple milestones with explicit description enables better planning and visibility. It allows and a more gradual investment (of time for the freelancer and money for the client).
 
 ### 📜 Reduced legal hassle
 
@@ -47,5 +47,9 @@ Each milestone is covered by a contract and we generate invoices.
 <!-- ☀️🖥🔦 -->
 
 We're putting UX first to make Freelancer Protocol a great tool to manage projects on.
+
+---
+
+Go to [Freelancer Protocol](https://www.freelancerprotocol.com/).
 
 <!-- ![GitHub Logo](/images/logo.png) -->

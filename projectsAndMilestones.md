@@ -38,5 +38,10 @@ Only a third of the agreed sum for the milestone is paid to the freelancer. The 
 If both the demo and the deliverable are not uploaded by the milestone deadline, the client is free to either:
 
 - cancel the milestone and get the entire sum back
-- extend the milestone by assigning it a new deadline,
-  > The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms.
+- extend the milestone by assigning it a new deadline
+
+  > ⏱ The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms.
+
+---
+
+Go to [Freelancer Protocol](https://www.freelancerprotocol.com/).
