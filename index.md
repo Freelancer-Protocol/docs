@@ -7,7 +7,7 @@ title: "Overview"
 
 # Freelancer Protocol
 
-![GitHub Logo](/images/logo150.png)
+![GitHub Logo](/images/logo100.png)
 
 ![GitHub Logo](/images/logo.png)
 
