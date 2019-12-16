@@ -1,8 +1,7 @@
 ---
 nav_order: 1
----
-
-## Projects and Milestones
+parent: "Overview"
+---## Projects and Milestones
 
 ### Basic definitions
 
