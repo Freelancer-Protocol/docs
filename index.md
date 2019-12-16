@@ -28,15 +28,15 @@ However, it stops making sense when the parties have known each other for a whil
 
 ##### From a client perspective
 
-The risk of the freelancer delivering late or not at all is gone.
+The risk of the freelancer delivering late or not at all is gone. You don't pay the bulk of the money unless you accept a demo of the working deliverable first.
 
 ##### From a freelancer perspective
 
-From a freelancer perspective, the risk of the client paying late or not at all is gone.
+The risk of the client paying late or not at all is gone. The client doesn't get anything unless you get the payment in full.
 
 ##### For both parties
 
-Dividing a single project into multiple milestones enables better planning, visibility and gradual involvment.
+Dividing a single project into multiple milestones enables better planning, visibility and a more gradual investment (of time for the freelancer and money for the client).
 
 ### 📜 Reduced legal hassle
 
