@@ -1,5 +1,4 @@
 ---
 nav_order: 3
----
-
-## Terms of a standard deal
+nav_exclude: true
+---## Terms of a standard deal
