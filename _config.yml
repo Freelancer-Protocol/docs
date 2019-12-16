@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 title: "Protocol Documentation"
+logo: "https://www.freelancerprotocol.com/logo192.png"
 aux_links:
   "Back to Dashboard":
     - "//www.freelancerprotocol.com/"
