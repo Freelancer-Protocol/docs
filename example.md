@@ -4,7 +4,7 @@ nav_order: 3
 
 ## A concrete example
 
-Lisa is a freelancer, Steve is her client, and Steve needs a new website built for next month.
+Lisa is a freelancer and Steve her client. Steve wants to have Lisa build a brand new website.
 
 Neither want to go through a platform that will charge expensive fees, so Lisa signs up to Freelancer Protocol as a freelancer.
 
