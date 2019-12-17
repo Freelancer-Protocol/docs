@@ -4,34 +4,45 @@ nav_order: 3
 
 ## A concrete example
 
-Lisa is a freelancer and Steve her client. Steve wants to have Lisa build a brand new website.
+Lisa is a freelancer and Steve is her client. Steve wants to have Lisa build a brand new website.
 
 Neither want to go through a platform that will charge expensive fees, so Lisa signs up to Freelancer Protocol as a freelancer.
 
 //photo 1
 
-She creates a project called _Steve's website_ and sets steve@gmail.com as the client email.
-Rather than redact the milestone for him, she sends him an email.
+She creates a project called _Steve's website_ and sets _steve@gmail.com_ as the client email.
+She creates draft for a milestone she calls "Homepage". She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
 
-She could either redact the milestone for him or send him the project so that he does it, in this case she does the latter to let him enter is specs.
+It's time for Lisa to share the project with the draft milestone in it.
+
+Steve is pinged by email, and taken directly to the project after he signs up as a client.
+
+He enters his payment info (client need to before a milestone can start), he details his specs for the homepage.
+He then previews the milestone then sends it.
+
+Lisa accepts it, the milestone has started! Freelancer Protocol deducts the full \$250 from Steve.
+
+<!-- //enable modification on :  -->
 
 //photo 2
 
 //photo 3
 
 //photo 4
-Steve gets an email and signs up as a client. He writes the milestone specs previews and presses send.
 
-He also enters his payment info as that's needed for the milestone to start.
+<!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
 
-Both are informed the milestone has started. Lisa can now start the work !
+They both get an email and a notifications on their dashboards.
 
-//photo 5
-Steve logs in and goes to his project. He creates a first milestone, prveviews and sends.
+9 days later, Lisa uploads both the demo and the deliverable to Freelancer Protocol.
+Steve received the demo. It looks rather good, so he accepts it.
 
-Steve and Lisa both get a notification.
+When he does, two things happen:
 
-The milestone starts when
+- Freelancer protocol sends Lisa the money
+- Steve receives the deliverable
+
+The milestone is closed ! On to a next one.
 
 ---
 
