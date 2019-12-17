@@ -26,13 +26,13 @@ However, it stops making sense when the parties have known each other for a whil
 
 <!-- 🔒 -->
 
-##### From a client perspective
+##### From client perspective
 
 The risk of the freelancer delivering late or not at all is gone. You don't pay the bulk of the money unless you accept a demo of the working deliverable first.
 
-##### From a freelancer perspective
+##### From freelancer perspective
 
-The risk of the client paying late or not at all is gone. The client doesn't receive anything unless you're paid in full.
+The risk of the client paying late or not at all is gone. Client doesn't receive anything unless you're paid in full.
 
 <!-- ##### For both parties -->
 
@@ -40,7 +40,7 @@ The risk of the client paying late or not at all is gone. The client doesn't rec
 
 Each milestone is covered by a contract and we generate invoices.
 
-### 🛠 A project management tool
+### 🛠 Your new favorite project management tool
 
 <!-- ☀️🖥🔦 -->
 

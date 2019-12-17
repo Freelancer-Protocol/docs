@@ -6,7 +6,7 @@ nav_order: 2
 
 ### Projects and Milestones
 
-A project is has one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
+A project has one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
 
  <!-- The project is divided into one or more milestones.
 Each milestone  -->
