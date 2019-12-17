@@ -44,7 +44,7 @@ Each milestone is covered by a contract and we generate invoices.
 
 <!-- ☀️🖥🔦 -->
 
-Dividing a single project into multiple milestones enables better planning and visibility. It allows for a more gradual investment (of time for the freelancer and money for the client).
+Dividing a single project into multiple milestones enables better planning and visibility. It also allows for a more gradual investment (of time for the freelancer and money for the client).
 
 We're putting UX first to make Freelancer Protocol a pleasant tool to manage projects on.
 
