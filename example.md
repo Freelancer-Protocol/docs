@@ -4,22 +4,23 @@ nav_order: 3
 
 ## A concrete example
 
-Lisa is a freelancer and Steve her client. Steve needs a new website built for next month
+Lisa is a freelancer and Steve her client, and Steve needs a new website built for next month
 
-Neither Lisa nor Steve want to go through a platform that will charge at least 10% fees.
-
-Lisa signs up to Freelancer Protocol as a freelancer.
+Neither want to go through a platform that will charge expensive fees, so Lisa signs up to Freelancer Protocol as a freelancer.
 
 //photo 1
 
-She creates a project called _Steve's iPhone release website_ and sets steve@gmail.com as the client of the project.
+She creates a project called _Steve's website_ and sets steve@gmail.com as the client of the project.
+She could either redact the milestone for him or send him the project so that he does it, in this case she does the latter to let him enter is specs.
 
 //photo 2
 
 //photo 3
 
 //photo 4
-Steve gets an email informing him he got added to a project
+Steve gets an email and signs up as a client. He writes the milestone specs and presses send.
+
+He also enters his payment info as that's needed for the milestone to start.
 
 She chooses to send Steve an email so he can write the first milestone himself.
 
