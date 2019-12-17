@@ -29,7 +29,7 @@ Note that during a milestone lifetime, anyone of the two parties can request a m
 
 Only a third of the agreed sum for the milestone is paid to the freelancer. The rest is paid back to the client.
 
-> ⚠️ A client that constantly rejects demos that follow their own instructions (outlined in the milestone description and enclosed designs) is facing exclusion from the platform.
+> ⚠️ A client that repeatedly rejects demos that follow their own instructions (outlined in the milestone description and enclosed designs) is facing exclusion from the platform.
 
 > ⚠️ In the same way, a freelancer that uploads misleading demos of deliverables also faces exclusion.
 
