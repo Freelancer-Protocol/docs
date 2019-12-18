@@ -77,7 +77,7 @@ When she does, Freelancer Protocol will send Lisa the funds, and Steve will rece
 
 The milestone is now finished, on to the next one!
 
-**See [this section](https://docs.freelancerprotocol.com/how.html#if-things-go-south) what happens if Steve rejects the demo or if Lisa doesn't upload the deliverable by the deadline.**
+_See [this section](https://docs.freelancerprotocol.com/how.html#if-things-go-south) what happens if Steve rejects the demo or if Lisa doesn't upload the deliverable by the deadline._
 
 ---
 
