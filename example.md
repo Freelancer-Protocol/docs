@@ -43,6 +43,10 @@ He then previews the milestone before sends it.
   <img src="/images/StevesPreview.png" alt="accessibility text" >
 </div>
 
+ <div class ="example-image small">
+  <img src="/images/StevesCard.png" alt="accessibility text" >
+</div>
+
 Lisa accepts it, the milestone has started! Freelancer Protocol deducts the full \$250 from Steve.
 
 <!-- //enable modification on :  -->
