@@ -14,7 +14,7 @@ Neither want to go through a platform that will charge expensive fees, so Lisa s
 
 She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as the client email.
 
- <div class ="example-image small">
+ <div class ="example-image tiny">
   <img src="/images/NewProjectModal.png" alt="accessibility text" >
 </div>
 
@@ -22,11 +22,19 @@ She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as 
   <img src="/images/ProjectCat.png" alt="accessibility text" >
 </div>
 
-She creates draft for a milestone titles _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
+She creates draft for a milestone titled _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
+
+ <div class ="example-image big">
+  <img src="/images/LisasDraft.png" alt="accessibility text" >
+</div>
 
 Lisa now shares the project with the draft milestone in it.
 
 Steve is pinged by email, and taken directly to the project after he signs up as a client.
+
+ <div class ="example-image medium">
+  <img src="/images/StevesEmail.png" alt="accessibility text" >
+</div>
 
 He enters his payment info (client need to before a milestone can start), he details his specs for the homepage.
 He then previews the milestone then sends it.

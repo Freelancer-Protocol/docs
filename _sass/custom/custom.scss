@@ -8,13 +8,32 @@ $link-color: #143cdc;
   display: flex;
   justify-content: center;
 
-  .img {
+  img {
     box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 20px, whitesmoke 0px -1px 0px;
+    border-radius: 3px;
   }
 }
 
 .example-image.small {
   img {
     height: 200px;
+  }
+}
+
+.example-image.tiny {
+  img {
+    height: 140px;
+  }
+}
+
+.example-image.medium {
+  img {
+    height: 300px;
+  }
+}
+
+.example-image.big {
+  img {
+    height: 450px;
   }
 }
