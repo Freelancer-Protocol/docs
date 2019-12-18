@@ -6,7 +6,7 @@ $link-color: #143cdc;
 
 .two-cards {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-evenly;
 }
 
@@ -59,14 +59,16 @@ $link-color: #143cdc;
   .example-image.small,
   .example-image.tiny-small {
     img {
-      width: 60%;
+      max-width: 60%;
+      height: auto !important;
     }
   }
 
   .example-image.medium,
   .example-image.medium-big .example-image.big {
     img {
-      width: 100%;
+      max-width: 100%;
+      height: auto !important;
     }
   }
 }
