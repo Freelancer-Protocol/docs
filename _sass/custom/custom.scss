@@ -50,8 +50,6 @@ $link-color: #143cdc;
   .example-image img {
     max-width: 100%;
     height: auto !important;
-
-    max-height: 300px !important;
   }
 
   .two-cards {
@@ -62,7 +60,7 @@ $link-color: #143cdc;
   .example-image.small,
   .example-image.tiny-small {
     img {
-      height: 200px !important;
+      max-height: 200px !important;
 
       // max-width: 60%;
     }
@@ -71,7 +69,7 @@ $link-color: #143cdc;
   .example-image.medium,
   .example-image.medium-big .example-image.big {
     img {
-      height: 300px !important;
+      max-height: 300px !important;
 
       // max-width: 100%;
     }
