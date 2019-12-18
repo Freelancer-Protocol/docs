@@ -18,9 +18,9 @@ She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as 
   <img src="/images/NewProject.png" alt="accessibility text" >
 </div>
 
- <!-- <div class ="example-image medium">
+ <div class ="example-image medium">
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
-</div> -->
+</div>
 
 She creates draft for a milestone titled _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
 
