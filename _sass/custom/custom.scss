@@ -19,12 +19,13 @@ $link-color: #143cdc;
 .example-image.small {
   img {
     height: 200px;
+    max-height: 100%;
   }
 }
 
 .example-image.tiny {
   img {
-    height: 140px;
+    height: 100px;
   }
 }
 
