@@ -6,14 +6,17 @@ nav_order: 3
 
 Lisa is a freelancer and Steve is her client. Steve wants to have Lisa build a brand new website.
 
-Neither want to go through a platform that will charge expensive fees, so Lisa signs up to Freelancer Protocol as a freelancer.
+Neither want to go through a platform that will charge expensive fees, so Lisa signs up to [Freelancer Protocol](https://www.freelancerprotocol.com/) as a freelancer.
 
+ <div class ="small-example">
+  <img src="/images/freelancerSignUp.png" alt="accessibility text" >
+</div>
 //photo 1
 
-She creates a project called _Steve's website_ and sets _steve@gmail.com_ as the client email.
-She creates draft for a milestone she calls "Homepage". She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
+She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as the client email.
+She creates draft for a milestone titles _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
 
-It's time for Lisa to share the project with the draft milestone in it.
+Lisa now shares the project with the draft milestone in it.
 
 Steve is pinged by email, and taken directly to the project after he signs up as a client.
 
