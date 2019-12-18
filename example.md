@@ -43,13 +43,18 @@ He then previews the milestone before sending it.
   <img src="/images/StevesPreview.png" alt="accessibility text" >
 </div>
 
-That's what the project looks like from Steve's dashboard.
+That's what the project now looks like from Steve and Lisa's respective dashboard.
 
+ <div class ="two-cards">
  <div class ="example-image small">
   <img src="/images/StevesCard.png" alt="accessibility text" >
 </div>
+ <div class ="example-image small">
+  <img src="/images/StevesCard.png" alt="accessibility text" >
+</div>
+</div>
 
-Lisa accepts now accepts the milestone.
+Lisa accepts can now accept the milestone.
 
  <div class ="example-image big">
   <img src="/images/LisasApproval.png" alt="accessibility text" >
@@ -58,7 +63,7 @@ Lisa accepts now accepts the milestone.
 Milestone has now started! Freelancer Protocol deducts the full \$250 from Steve.
 They both get an email and a notification on their dashboards.
 
- <div class ="example-image tiny-small">
+ <div class ="example-image small">
   <img src="/images/LisasNotifications.png" alt="accessibility text" >
 </div>
 
