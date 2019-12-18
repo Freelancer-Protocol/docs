@@ -67,7 +67,8 @@ $link-color: #143cdc;
   }
 
   .example-image.medium,
-  .example-image.medium-big .example-image.big {
+  .example-image.medium-big,
+  .example-image.big {
     img {
       max-height: 300px !important;
 
