@@ -48,7 +48,7 @@ $link-color: #143cdc;
 
 @media only screen and (max-width: 800px) {
   .example-image img {
-    height: auto !important;
+    // height: 300px !important;
   }
 
   .two-cards {
@@ -59,16 +59,18 @@ $link-color: #143cdc;
   .example-image.small,
   .example-image.tiny-small {
     img {
-      max-width: 60%;
-      height: auto !important;
+      height: 200px !important;
+
+      // max-width: 60%;
     }
   }
 
   .example-image.medium,
   .example-image.medium-big .example-image.big {
     img {
-      max-width: 100%;
-      height: auto !important;
+      height: 300px !important;
+
+      // max-width: 100%;
     }
   }
 }
