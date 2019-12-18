@@ -48,8 +48,8 @@ $link-color: #143cdc;
 
 @media only screen and (max-width: 800px) {
   .example-image img {
-    // max-width: 100%;
-    height: auto !important;
+    max-width: 100%;
+    // height: auto !important;
   }
 
   .two-cards {
@@ -60,9 +60,9 @@ $link-color: #143cdc;
   .example-image.small,
   .example-image.tiny-small {
     img {
-      // max-height: 200px !important;
+      max-height: 200px !important;
 
-      max-width: 60%;
+      // max-width: 60%;
     }
   }
 
@@ -70,9 +70,9 @@ $link-color: #143cdc;
   .example-image.medium-big,
   .example-image.big {
     img {
-      // max-height: 300px !important;
+      max-height: 300px !important;
 
-      max-width: 100%;
+      // max-width: 100%;
     }
   }
 }
