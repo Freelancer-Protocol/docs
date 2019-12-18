@@ -8,10 +8,9 @@ Lisa is a freelancer and Steve is her client. Steve wants to have Lisa build a b
 
 Neither want to go through a platform that will charge expensive fees, so Lisa signs up to [Freelancer Protocol](https://www.freelancerprotocol.com/) as a freelancer.
 
- <div class ="small-example">
+ <div class ="example-image small">
   <img src="/images/freelancerSignUp.png" alt="accessibility text" >
 </div>
-//photo 1
 
 She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as the client email.
 She creates draft for a milestone titles _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.

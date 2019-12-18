@@ -4,8 +4,16 @@ $link-color: #143cdc;
   @include fs-6;
 }
 
-.small-example {
-  height: 200px;
+.example-image {
+  display: flex;
+  justify-content: center;
+
+  .img {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 20px, whitesmoke 0px -1px 0px;
+  }
+}
+
+.example-image.small {
   img {
     height: 200px;
   }
