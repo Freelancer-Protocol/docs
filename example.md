@@ -37,23 +37,36 @@ Steve is pinged by email, and taken directly to the project after he signs up as
 </div>
 
 He enters his payment info (client need to before a milestone can start), he details his specs for the homepage.
-He then previews the milestone before sends it.
+He then previews the milestone before sending it.
 
  <div class ="example-image medium-big">
   <img src="/images/StevesPreview.png" alt="accessibility text" >
 </div>
 
- <div class ="example-image small">
+That's what the project looks like from Steve's dashboard.
+
+ <div class ="example-image tiny-small">
   <img src="/images/StevesCard.png" alt="accessibility text" >
 </div>
 
-Lisa accepts it, the milestone has started! Freelancer Protocol deducts the full \$250 from Steve.
+Lisa accepts now accepts the milestone.
+
+ <div class ="example-image big">
+  <img src="/images/LisasApproval.png" alt="accessibility text" >
+</div>
+
+Milestone has now started! Freelancer Protocol deducts the full \$250 from Steve.
+They both get an email and a notification on their dashboards.
+
+ <div class ="example-image tiny-small">
+  <img src="/images/LisasNotifications.png" alt="accessibility text" >
+</div>
 
 <!-- //enable modification on :  -->
 
- <div class ="example-image big">
+ <!-- <div class ="example-image big">
   <img src="/images/SentProject.png" alt="accessibility text" >
-</div>
+</div> -->
 
 //photo 2
 
@@ -62,8 +75,6 @@ Lisa accepts it, the milestone has started! Freelancer Protocol deducts the full
 //photo 4
 
 <!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
-
-They both get an email and a notifications on their dashboards.
 
 9 days later, Lisa uploads both the demo and the deliverable to Freelancer Protocol.
 Steve received the demo. It looks rather good, so he accepts it.

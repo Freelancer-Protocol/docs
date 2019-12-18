@@ -19,6 +19,11 @@ $link-color: #143cdc;
 .example-image.tiny img {
   height: 100px;
 }
+
+.example-image.tiny-small img {
+  height: 150px;
+}
+
 .example-image.small img {
   height: 200px;
 }
@@ -41,7 +46,8 @@ $link-color: #143cdc;
   }
 
   .example-image.tiny,
-  .example-image.small {
+  .example-image.small,
+  .example-image.tiny-small {
     img {
       width: 60%;
     }
