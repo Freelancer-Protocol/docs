@@ -59,6 +59,10 @@ $link-color: #143cdc;
     }
   }
 
+  .two-cards {
+    flex-direction: column !important;
+  }
+
   .example-image.medium,
   .example-image.medium-big .example-image.big {
     img {
