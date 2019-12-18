@@ -37,7 +37,7 @@ $link-color: #143cdc;
 
 @media only screen and (max-width: 800px) {
   .example-image img {
-    height: auto;
+    height: auto !important;
   }
 
   .example-image.tiny,
