@@ -51,16 +51,16 @@ $link-color: #143cdc;
     height: auto !important;
   }
 
+  .two-cards {
+    flex-direction: column !important;
+  }
+
   .example-image.tiny,
   .example-image.small,
   .example-image.tiny-small {
     img {
       width: 60%;
     }
-  }
-
-  .two-cards {
-    flex-direction: column !important;
   }
 
   .example-image.medium,
