@@ -13,6 +13,15 @@ Neither want to go through a platform that will charge expensive fees, so Lisa s
 </div>
 
 She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as the client email.
+
+ <div class ="example-image small">
+  <img src="/images/NewProjectModal.png" alt="accessibility text" >
+</div>
+
+ <div class ="example-image medium">
+  <img src="/images/ProjectCat.png" alt="accessibility text" >
+</div>
+
 She creates draft for a milestone titles _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
 
 Lisa now shares the project with the draft milestone in it.
