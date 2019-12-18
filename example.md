@@ -36,7 +36,7 @@ Steve is pinged by email, and taken directly to the project after he signs up as
   <img src="/images/StevesEmail.png" alt="accessibility text" >
 </div>
 
-He enters his payment info (client need to before a milestone can start), he details his specs for the homepage.
+He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
 He then previews the milestone before sending it.
 
  <div class ="example-image medium-big">
@@ -45,9 +45,9 @@ He then previews the milestone before sending it.
 
 That's what the project looks like from Steve's dashboard.
 
- <div class ="example-image tiny-small">
+ <!-- <div class ="example-image tiny-small">
   <img src="/images/StevesCard.png" alt="accessibility text" >
-</div>
+</div> -->
 
 Lisa accepts now accepts the milestone.
 
@@ -62,19 +62,11 @@ They both get an email and a notification on their dashboards.
   <img src="/images/LisasNotifications.png" alt="accessibility text" >
 </div>
 
-<!-- //enable modification on :  -->
-
- <!-- <div class ="example-image big">
-  <img src="/images/SentProject.png" alt="accessibility text" >
-</div> -->
-
-//photo 2
-
-//photo 3
-
-//photo 4
-
 <!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
+
+It takes just 3 days to make a static version of the website that's good enough for a demo. She submits it.
+
+<!-- Steve finds the  -->
 
 9 days later, Lisa uploads both the demo and the deliverable to Freelancer Protocol.
 Steve received the demo. It looks rather good, so he accepts it.
