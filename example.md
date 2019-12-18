@@ -45,9 +45,9 @@ He then previews the milestone before sending it.
 
 That's what the project looks like from Steve's dashboard.
 
- <!-- <div class ="example-image tiny-small">
+ <div class ="example-image small">
   <img src="/images/StevesCard.png" alt="accessibility text" >
-</div> -->
+</div>
 
 Lisa accepts now accepts the milestone.
 
