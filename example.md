@@ -46,12 +46,12 @@ He then previews the milestone before sending it.
 That's what the project now looks like from Steve and Lisa's respective dashboard.
 
  <div class ="two-cards">
- <div class ="example-image small">
-  <img src="/images/StevesCard.png" alt="accessibility text" >
-</div>
- <div class ="example-image small">
-  <img src="/images/StevesCard.png" alt="accessibility text" >
-</div>
+    <div class ="example-image tiny-small">
+    <img src="/images/StevesCard.png" alt="accessibility text" >
+    </div>
+    <div class ="example-image tiny-small">
+    <img src="/images/LisasCard.png" alt="accessibility text" >
+    </div>
 </div>
 
 Lisa accepts can now accept the milestone.

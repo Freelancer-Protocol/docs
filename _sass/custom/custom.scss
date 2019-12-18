@@ -4,6 +4,12 @@ $link-color: #143cdc;
   @include fs-6;
 }
 
+.two-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 .example-image {
   display: flex;
   justify-content: center;
