@@ -48,7 +48,10 @@ $link-color: #143cdc;
 
 @media only screen and (max-width: 800px) {
   .example-image img {
-    // height: 300px !important;
+    max-width: 100%;
+    height: auto !important;
+
+    max-height: 300px !important;
   }
 
   .two-cards {
