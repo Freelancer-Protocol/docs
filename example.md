@@ -50,7 +50,7 @@ That's what the project now looks like from Steve and Lisa's respective dashboar
     <img src="/images/StevesCard.png" alt="accessibility text" >
     </div>
     <div class ="example-image tiny-small">
-    <img src="/images/LisasCard.png" alt="accessibility text" >
+    <img src="/images/LisasCard1.png" alt="accessibility text" >
     </div>
 </div>
 
@@ -69,19 +69,15 @@ They both get an email and a notification on their dashboards.
 
 <!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
 
-It takes just 3 days to make a static version of the website that's good enough for a demo. She submits it.
+It only takes Lisa 3 days to make a static version of the website that's good enough for a demo, so she submits it.
 
-<!-- Steve finds the  -->
+Steve likes what he's seeing so he approves the demo. The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
-9 days later, Lisa uploads both the demo and the deliverable to Freelancer Protocol.
-Steve received the demo. It looks rather good, so he accepts it.
+When she does, Freelancer Protocol will send Lisa the funds, and Steve will receive the deliverable.
 
-When he does, two things happen:
+See [This section](https://docs.freelancerprotocol.com/how.html#if-things-go-south) what happens if Steve rejects the demo or if Lisa doesn't upload the deliverable by the deadline.
 
-- Freelancer protocol sends Lisa the money
-- Steve receives the deliverable
-
-The milestone is closed ! On to a next one.
+The milestone is finished, on to the next one!
 
 ---
 
