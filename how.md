@@ -17,7 +17,7 @@ Each milestone  -->
 
    > 👉 For this reason, the milestone can't start until the client has entered their payment info.
 
-2. The freelancer has to upload _both_ a demo (either a link or video) and the deliverable before the milestone deadline.
+2. The freelancer uploads a demo that the client has to accept for the milestone to go on. If it does, the freelancer will have to upload the deliverable before the milestone deadline.
 
 3. If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
 
