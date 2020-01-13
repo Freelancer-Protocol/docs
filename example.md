@@ -79,9 +79,9 @@ Steve likes what he's seeing so he approves the demo. The milestone will now fin
 
 When she does, Freelancer Protocol will send Lisa the funds, and Steve will receive the deliverable.
 
- <div class ="example-image tiny">
+ <!-- <div class ="example-image tiny">
   <img src="/images/Download.png" alt="accessibility text" >
-</div>
+</div> -->
 
 The milestone is now finished, on to the next one!
 
