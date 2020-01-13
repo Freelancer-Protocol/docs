@@ -71,6 +71,10 @@ They both get an email and a notification on their dashboards.
 
 It only takes Lisa 3 days to make a static version of the website that's good enough for a demo, so she submits it.
 
+ <div class ="example-image small">
+  <img src="/images/DemoUpload.png" alt="accessibility text" >
+</div>
+
 Steve likes what he's seeing so he approves the demo. The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
 When she does, Freelancer Protocol will send Lisa the funds, and Steve will receive the deliverable.
