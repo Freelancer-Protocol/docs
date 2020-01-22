@@ -30,8 +30,8 @@ Note she leaves the _Deliverable description_ field blank, so that Steve can fil
   <img src="/images/LisasDraft.png" alt="accessibility text" >
 </div>
 
-Lisa now previews and sends by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>
-.
+<p class="with button">
+Lisa now previews and sends by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>.</p>
 
 If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive a simple email:
 
