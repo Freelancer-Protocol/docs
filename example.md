@@ -50,7 +50,7 @@ If Steve has not already signed up to Freelancer Protocol, he'll be sent an invi
 
 Steve chooses to <span class="button secondary-green" style="width: 195px"> Accept with Modification</span>
 
-That way he is able to fill in _Deliverable description_.
+That way he is able to fill in the _Deliverable description_.
 
  <div class ="example-image big">
   <img src="/images/StevesModification.png" alt="accessibility text" >
