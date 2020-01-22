@@ -64,7 +64,7 @@ That's what the project now looks like from Steve and Lisa's respective dashboar
     <img src="/images/StevesCard.png" alt="accessibility text" >
     </div>
     <div class ="example-image tiny-small">
-    <img src="/images/LisasCard1.png" alt="accessibility text" >
+    <img src="/images/LisasCard.png" alt="accessibility text" >
     </div>
 </div>
 
