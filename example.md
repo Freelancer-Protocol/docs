@@ -44,7 +44,7 @@ If Steve has not already signed up to Freelancer Protocol, he'll be sent an invi
 
 Steve chooses to <span class="button secondary-green" style="width: 195px"> Accept with Modification</span>
 
-That way he is able to fill in **Deliverable description**. This means Lisa will have to approve of the editted description before sending it.
+That way he is able to fill in **Deliverable description**.
 
  <div class ="example-image big">
   <img src="/images/StevesModification.png" alt="accessibility text" >
@@ -52,14 +52,14 @@ That way he is able to fill in **Deliverable description**. This means Lisa will
 
 When he previews the milestone, Steve is warned he needs to enter his payment info for the milestone to be able to start, so he does just that.
 
- <div class ="example-image big">
+ <div class ="example-image tiny">
   <img src="/images/StevesWarning.png" alt="accessibility text" >
 </div>
 
 <!-- He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
 He then previews the milestone before sending it. -->
 
-So now that it's Lisa turn to **Accept** the milestone, this is what the project looks like from their respective dasboards.
+Now Lisa will has to approve of the editted milestone. This is what the project looks like from their respective dasboards.
 
  <div class ="two-cards">
     <div class ="example-image tiny-small">
