@@ -14,13 +14,13 @@ Lisa is a freelancer and Steve is her client. Steve needs Lisa to build him a br
 
 Lisa creates a project: she names it _Steve's website_ and sets _steve@gmail.com_ as the client email.
 
- <div class ="example-image tiny">
+ <div class ="example-image small">
   <img src="/images/NewProject.png" alt="accessibility text" >
 </div>
 
- <div class ="example-image medium">
+ <!-- <div class ="example-image medium">
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
-</div>
+</div> -->
 
 She populates the project with a milestone titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and \£250.
 
