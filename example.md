@@ -85,7 +85,7 @@ Now Lisa will has to approve of the edited milestone. This is what the project l
     <div class ="example-image tiny-small">
     <img src="/images/MilestoneOngoing1.png" alt="accessibility text" >
     </div>
-    <div class ="example-image tiny-small">
+    <div class ="example-image tiny">
     <img src="/images/MilestoneOngoing2.png" alt="accessibility text" >
     </div>
 </div>
