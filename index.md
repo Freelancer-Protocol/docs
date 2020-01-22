@@ -5,7 +5,7 @@ title: "Overview"
 
 # Freelancer Protocol is your trusted environment outside of freelancer platforms.
 
-It's free, easy to use and fair to both parties.
+It's simple of use, free and fair to freelancer and client.
 {: .fs-6 .fw-300 }
 
  <p align="center">
