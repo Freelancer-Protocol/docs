@@ -117,8 +117,15 @@ body {
   .example-image.small,
   .example-image.tiny-small {
     img {
-      max-height: 140px !important;
+      max-height: 170px !important;
 
+      // max-width: 60%;
+    }
+  }
+
+  .example-image.long {
+    img {
+      max-height: 120px !important;
       // max-width: 60%;
     }
   }
