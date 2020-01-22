@@ -84,26 +84,13 @@ Now Lisa will has to approve of the editted milestone. This is what the project 
     </div>
 </div>
 
- <!-- <div class ="example-image big">
-  <img src="/images/LisasApproval.png" alt="accessibility text" >
-</div>
-
-Milestone has now started! Freelancer Protocol deducts the full \£250 from Steve.
-They both get an email and a notification on their dashboards.
-
- <div class ="example-image small">
-  <img src="/images/LisasNotifications.png" alt="accessibility text" >
-</div> -->
-
-<!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
-
 **Lisa now has to upload a demo.** It only takes Lisa 3 days to make a static version of the website that's good enough for a demo, so she submits it.
 
  <div class ="example-image small">
   <img src="/images/DemoUpload.png" alt="accessibility text" >
 </div>
 
-Steve likes what he's seeing so he approves the demo. **It's normal if the demo has a few minor glitches and things Steve would like to see adjusted for the final stage.**
+Steve likes what he's seeing so he approves the demo. **It's normal that the demo has a few minor glitches and things Steve would like to see adjusted for the final stage.**
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
@@ -113,7 +100,7 @@ When she does, Freelancer Protocol will send Lisa the funds, and Steve will rece
   <img src="/images/Download.png" alt="accessibility text" >
 </div> -->
 
-The milestone is now finished, on to the next one!
+This milestone is completed, on to the next one!
 
 _Go to [this section](https://docs.freelancerprotocol.com/how.html#if-things-go-south) for the cases where Steve rejects the demo or Lisa doesn't upload the deliverable by the deadline._
 
