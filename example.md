@@ -30,7 +30,7 @@ Note she leaves the _Deliverable description_ field blank for Steve to fill.
   <img src="/images/LisasDraft.png" alt="accessibility text" >
 </div>
 
-Lisa now previews the milestone.
+Lisa previews the milestone:
 
  <div class ="example-image medium400">
   <img src="/images/LisasPreview.png" alt="accessibility text" >
@@ -104,7 +104,8 @@ Steve is now asked to either approve or reject the demo:
   <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
 </div>
 
-Steve likes what he's seeing so he approves the demo. **It's normal that the demo has a few minor glitches Steve would like to see handled for the final stage.**
+**It's normal if the demo has a few minor glitches Steve would like to see handled for the final stage.**
+Steve likes what he's seeing so he approves the demo.
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
