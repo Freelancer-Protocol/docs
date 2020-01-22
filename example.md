@@ -96,7 +96,7 @@ Steve is now asked to either approve or reject the demo:
   <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
 </div>
 
-Steve likes what he's seeing so he approves the demo. **It's normal that the demo has a few minor glitches and things Steve would like to see adjusted for the final stage.**
+Steve likes what he's seeing so he approves the demo. **It's normal that the demo has a few minor glitches Steve would like to see handled for the final stage.**
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
