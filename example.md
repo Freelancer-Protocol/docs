@@ -36,7 +36,7 @@ Lisa previews the milestone:
   <img src="/images/LisasPreview.png" alt="accessibility text" >
 </div>
 
-She sends it by clicking on <span class="button blue-gradient" > Accept and Send</span>
+She sends it to Steve by clicking on <span class="button blue-gradient" > Accept and Send</span>
 
 If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive an email along with a notification:
 
@@ -54,9 +54,7 @@ This is what the _Homepage_ milestone looks like to Steve at this point:
   <img src="/images/StevesReceives.png" alt="accessibility text" >
 </div>
 
-Steve chooses to <span class="button secondary-green" > Accept with Modification</span>
-
-That way he is able to fill in the _Deliverable description_.
+Steve chooses to <span class="button secondary-green" > Accept with Modification</span> so that he can write the _Deliverable description_.
 
  <div class ="example-image big">
   <img src="/images/StevesModification.png" alt="accessibility text" >
