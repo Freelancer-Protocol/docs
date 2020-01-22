@@ -109,9 +109,9 @@ Steve likes what he's seeing so he approves the demo.
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
-When she does, Freelancer Protocol will send Lisa the funds, and Steve will receive the deliverable.
+When she does, **Lisa will receive the funds, and Steve will receive the deliverable**.
 
-This milestone is completed, on to the next one!
+**This milestone is completed**, on to the next one!
 
 _Go to [this section](https://docs.freelancerprotocol.com/how.html#if-things-go-south) for the cases where Steve rejects the demo or Lisa doesn't upload the deliverable by the deadline._
 
