@@ -36,7 +36,7 @@ Lisa previews the milestone:
   <img src="/images/LisasPreview.png" alt="accessibility text" >
 </div>
 
-She sends it by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>
+She sends it by clicking on <span class="button blue-gradient" > Accept and Send</span>
 
 If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive an email along with a notification:
 
@@ -54,7 +54,7 @@ This is what the _Homepage_ milestone looks like to Steve at this point:
   <img src="/images/StevesReceives.png" alt="accessibility text" >
 </div>
 
-Steve chooses to <span class="button secondary-green" style="width: 195px"> Accept with Modification</span>
+Steve chooses to <span class="button secondary-green" > Accept with Modification</span>
 
 That way he is able to fill in the _Deliverable description_.
 
@@ -104,7 +104,7 @@ Steve is now asked to either approve or reject the demo:
   <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
 </div>
 
-**It's normal if the demo has a few minor glitches Steve would like to see handled for the final stage.**
+**It's ok for the demo to have a few minor glitches that will have to be fixed for the final version.**
 Steve likes what he's seeing so he approves the demo.
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
