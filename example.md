@@ -62,7 +62,7 @@ That way he is able to fill in the _Deliverable description_.
   <img src="/images/StevesModification.png" alt="accessibility text" >
 </div>
 
-When he previews the milestone, Steve is warned he **needs to enter his payment info for the milestone to be able to start**, so he does just that.
+When he previews the milestone, Steve is warned he needs to **enter his payment info for the milestone to be able to start**, so he does just that.
 
  <div class ="example-image tiny">
   <img src="/images/StevesWarning.png" alt="accessibility text" >
@@ -71,12 +71,14 @@ When he previews the milestone, Steve is warned he **needs to enter his payment 
 Now Lisa will has to approve of the edited milestone. This is what the project looks like from Steve and Lisa's respective dasboards.
 
  <div class ="two-cards">
-    <div class ="example-image tiny-small">
-    <img src="/images/StevesCard.png" alt="accessibility text" >
-    </div>
-    <div class ="example-image tiny-small">
+
+  <div class ="example-image tiny-small">
     <img src="/images/LisasCard.png" alt="accessibility text" >
-    </div>
+  </div>
+  <div class ="example-image tiny-small">
+    <img src="/images/StevesCard.png" alt="accessibility text" >
+  </div>
+  
 </div>
 
 **Lisa accepts the edited milestone.** Freelancer Protocol deducts the full £250 from Steve, and both parties receive an email and a notification. This is what the dashboard and milestone status now look like for Steve and Lisa:
