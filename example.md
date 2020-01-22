@@ -44,7 +44,7 @@ If Steve has not already signed up to Freelancer Protocol, he'll be sent an invi
   <img src="/images/StevesEmail.png" alt="accessibility text" >
 </div>
 
- <div class ="example-image tiny">
+ <div class ="example-image tiny long">
   <img src="/images/StevesNotification.png" alt="accessibility text" >
 </div>
 
