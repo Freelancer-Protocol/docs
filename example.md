@@ -4,15 +4,15 @@ nav_order: 3
 
 ## A concrete example
 
-Lisa is a freelancer and Steve is her client. Steve wants to have Lisa build a brand new website.
+Lisa is a freelancer and Steve is her client. Steve needs Lisa to build him a brand new website.
 
-Neither want to go through a platform that will charge expensive fees, so Lisa signs up to [Freelancer Protocol](https://www.freelancerprotocol.com/) as a freelancer.
+<!-- Neither want to go through a platform that will charge expensive fees, so Lisa signs up to [Freelancer Protocol](https://www.freelancerprotocol.com/) as a freelancer.
 
  <div class ="example-image small">
   <img src="/images/freelancerSignUp.png" alt="accessibility text" >
-</div>
+</div> -->
 
-She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as the client email.
+Lisa creates a project: she names it _Steve's website_ and sets _steve@gmail.com_ as the client email.
 
  <div class ="example-image tiny">
   <img src="/images/NewProject.png" alt="accessibility text" >
@@ -22,20 +22,24 @@ She creates a project she names _Steve's website_ and sets _steve@gmail.com_ as 
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
 </div>
 
-She creates draft for a milestone titled _Homepage_. She prepopulates the due date and price fields, suggesting respectively a week from now and \$250.
+She populates the project with a milestone titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and \£250.
+
+Note she leaves the _Deliverable description_ field blank, so that Steve can fill it.
 
  <div class ="example-image big">
   <img src="/images/LisasDraft.png" alt="accessibility text" >
 </div>
 
-Lisa now shares the project with the draft milestone in it.
+Lisa now previews and sends by clicking on <span className="button blue-gradient"> Accept and Send</span>
+.
 
-Steve is pinged by email, and taken directly to the project after he signs up as a client.
+If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive a simple email:
 
  <div class ="example-image medium">
   <img src="/images/StevesEmail.png" alt="accessibility text" >
 </div>
 
+Steve chooses to **Accept with modification**
 He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
 He then previews the milestone before sending it.
 
