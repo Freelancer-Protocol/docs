@@ -3,7 +3,7 @@ nav_order: 1
 title: "Overview"
 ---
 
-# Use Freelancer Protocol to exchange payment and deliverable outside of freelancer platforms.
+# Freelancer Protocol is your trusted environment outside of freelancer platforms.
 
 It's free, easy to use and fair to both parties.
 {: .fs-6 .fw-300 }
