@@ -48,6 +48,8 @@ If Steve has not already signed up to Freelancer Protocol, he'll be sent an invi
   <img src="/images/StevesNotification.png" alt="accessibility text" >
 </div>
 
+This is what the _Homepage_ milestone looks like to Steve at this point:
+
  <div class ="example-image big">
   <img src="/images/StevesReceives.png" alt="accessibility text" >
 </div>
