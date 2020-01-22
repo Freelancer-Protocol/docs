@@ -90,15 +90,17 @@ Now Lisa will has to approve of the editted milestone. This is what the project 
   <img src="/images/DemoUpload.png" alt="accessibility text" >
 </div>
 
+Steve is now asked to either approve or reject the demo:
+
+ <div class ="example-image tiny-small">
+  <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
+</div>
+
 Steve likes what he's seeing so he approves the demo. **It's normal that the demo has a few minor glitches and things Steve would like to see adjusted for the final stage.**
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
 When she does, Freelancer Protocol will send Lisa the funds, and Steve will receive the deliverable.
-
- <!-- <div class ="example-image tiny">
-  <img src="/images/Download.png" alt="accessibility text" >
-</div> -->
 
 This milestone is completed, on to the next one!
 
