@@ -22,27 +22,38 @@ Lisa creates a project: she names it _Steve's website_ and sets _steve@gmail.com
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
 </div> -->
 
-She populates the project with a milestone titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and \£250.
+She populates the project with a milestone titled _Homepage_. She fills the **Due date** and **Price** fields, suggesting respectively a week from now and \£250.
 
-Note she leaves the _Deliverable description_ field blank, so that Steve can fill it.
+Note she leaves the **Deliverable description** field blank, so that Steve can fill it.
 
  <div class ="example-image big">
   <img src="/images/LisasDraft.png" alt="accessibility text" >
 </div>
 
-Lisa now previews and sends by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>.
+Lisa now previews and sends by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>
 
 If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive a simple email:
 
- <div class ="example-image medium">
+ <div class ="example-image medium400">
   <img src="/images/StevesEmail.png" alt="accessibility text" >
 </div>
 
-Steve chooses to **Accept with modification**
+ <div class ="example-image big">
+  <img src="/images/StevesReceives.png" alt="accessibility text" >
+</div>
+
+Steve chooses to <span class="button secondary-green" style="width: 140px"> Accept with Modification</span>
+
+That way he is able to fill in **Deliverable description**.
+
+ <div class ="example-image big">
+  <img src="/images/StevesModification.png" alt="accessibility text" >
+</div>
+
 He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
 He then previews the milestone before sending it.
 
- <div class ="example-image medium-big">
+ <div class ="example-image big">
   <img src="/images/StevesPreview.png" alt="accessibility text" >
 </div>
 

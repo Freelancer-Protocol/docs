@@ -14,7 +14,7 @@ body {
 }
 
 .button {
-  margin-left: 10px;
+  margin-left: 5px;
   border-radius: 3px;
   position: relative;
   display: inline-block;
@@ -93,6 +93,10 @@ body {
 
 .example-image.medium-big img {
   height: 350px;
+}
+
+.example-image.medium400 img {
+  height: 400px;
 }
 
 .example-image.big img {
