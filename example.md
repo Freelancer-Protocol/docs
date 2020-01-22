@@ -64,7 +64,7 @@ That way he is able to fill in the _Deliverable description_.
 
 When he previews the milestone, Steve is warned he needs to **enter his payment info for the milestone to be able to start**, so he does just that.
 
- <div class ="example-image tiny">
+ <div class ="example-image tiny long">
   <img src="/images/StevesWarning.png" alt="accessibility text" >
 </div>
 
@@ -100,7 +100,7 @@ Now Lisa will has to approve of the edited milestone. This is what the project l
 
 Steve is now asked to either approve or reject the demo:
 
- <div class ="example-image tiny-small">
+ <div class ="example-image tiny-small long">
   <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
 </div>
 
