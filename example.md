@@ -22,7 +22,7 @@ nav_order: 3
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
 </div> -->
 
-**She populates the project with a milestone** titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and \£250.
+**She populates the project with a milestone** titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and £250.
 
 Note she leaves the _Deliverable description_ field blank, so that Steve can fill it.
 
@@ -73,7 +73,7 @@ Now Lisa will has to approve of the editted milestone. This is what the project 
     </div>
 </div>
 
-**Lisa accepts accepts the editted milestone.** Freelancer Protocol deducts the full \£250 from Steve, and both parties receive an email and a notification.
+**Lisa accepts the editted milestone.** Freelancer Protocol deducts the full £250 from Steve, and both parties receive an email and a notification. This is what the dashboard and milestone status now look like for Steve and Lisa:
 
  <div class ="two-cards">
     <div class ="example-image tiny-small">
