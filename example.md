@@ -38,10 +38,14 @@ Lisa now previews the milestone.
 
 She sends it by clicking on <span class="button blue-gradient" style="width: 140px"> Accept and Send</span>
 
-If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive a simple email:
+If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive an email along with a notification:
 
  <div class ="example-image medium400">
   <img src="/images/StevesEmail.png" alt="accessibility text" >
+</div>
+
+ <div class ="example-image tiny">
+  <img src="/images/StevesNotification.png" alt="accessibility text" >
 </div>
 
  <div class ="example-image big">
