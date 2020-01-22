@@ -42,22 +42,24 @@ If Steve has not already signed up to Freelancer Protocol, he'll be sent an invi
   <img src="/images/StevesReceives.png" alt="accessibility text" >
 </div>
 
-Steve chooses to <span class="button secondary-green" style="width: 140px"> Accept with Modification</span>
+Steve chooses to <span class="button secondary-green" style="width: 195px"> Accept with Modification</span>
 
-That way he is able to fill in **Deliverable description**.
+That way he is able to fill in **Deliverable description**. This means Lisa will have to approve of the editted description before sending it.
 
  <div class ="example-image big">
   <img src="/images/StevesModification.png" alt="accessibility text" >
 </div>
 
-He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
-He then previews the milestone before sending it.
+When he previews the milestone, Steve is warned he needs to enter his payment info for the milestone to be able to start, so he does just that.
 
  <div class ="example-image big">
-  <img src="/images/StevesPreview.png" alt="accessibility text" >
+  <img src="/images/StevesWarning.png" alt="accessibility text" >
 </div>
 
-That's what the project now looks like from Steve and Lisa's respective dashboard.
+<!-- He enters his payment info (client need to for the milestone to start) and details his specs for the homepage.
+He then previews the milestone before sending it. -->
+
+So now that it's Lisa turn to **Accept** the milestone, this is what the project looks like from their respective dasboards.
 
  <div class ="two-cards">
     <div class ="example-image tiny-small">
@@ -68,18 +70,27 @@ That's what the project now looks like from Steve and Lisa's respective dashboar
     </div>
 </div>
 
-Lisa accepts can now accept the milestone.
+Lisa accepts now accepts the milestone. **Freelancer Protocol** deducts the full \£250 from Steve, and both parties receive an email and a notification.
 
- <div class ="example-image big">
+ <div class ="two-cards">
+    <div class ="example-image tiny-small">
+    <img src="/images/MilestoneOngoing1.png" alt="accessibility text" >
+    </div>
+    <div class ="example-image tiny-small">
+    <img src="/images/MilestoneOngoing2.png" alt="accessibility text" >
+    </div>
+</div>
+
+ <!-- <div class ="example-image big">
   <img src="/images/LisasApproval.png" alt="accessibility text" >
 </div>
 
-Milestone has now started! Freelancer Protocol deducts the full \$250 from Steve.
+Milestone has now started! Freelancer Protocol deducts the full \£250 from Steve.
 They both get an email and a notification on their dashboards.
 
  <div class ="example-image small">
   <img src="/images/LisasNotifications.png" alt="accessibility text" >
-</div>
+</div> -->
 
 <!-- All the above may sound super long but it reality the whole should take Steve and Lisa about 5 minutes each. -->
 
