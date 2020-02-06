@@ -12,7 +12,7 @@ nav_order: 2
   <img src="/images/freelancerSignUp.png" alt="accessibility text" >
 </div> -->
 
-**Lisa creates a project:** she names _Steve's website_.
+**Lisa creates a project** she names _Steve's website_.
 
 <!-- and sets _steve@gmail.com_ as the client email. -->
 
@@ -30,11 +30,11 @@ nav_order: 2
 
 **She populates the project with a milestone** titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and £250.
 
-Note she leaves the _Deliverable description_ field blank for Steve to fill.
-
  <div class ="example-image big">
   <img src="/images/LisasDraft.png" alt="accessibility text" >
 </div>
+
+Note she leaves the _Deliverable description_ field blank for Steve to fill.
 
 Lisa previews the milestone:
 
@@ -115,7 +115,7 @@ Steve is now asked to either approve or reject the demo:
 </div>
 
 **It's ok for the demo to have a few minor glitches that will have to be fixed for the final version.**
-Steve likes what he's seeing so he approves the demo.
+Steve mostly likes what he's seeing so he approves the demo.
 
 The milestone will now finalize for sure, as soon as Lisa uploads the deliverable.
 
