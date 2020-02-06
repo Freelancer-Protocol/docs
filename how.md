@@ -48,7 +48,7 @@ If both the demo and the deliverable are not uploaded by the milestone deadline,
 - cancel the milestone and get the entire sum back
 - extend the milestone by assigning it a new deadline
 
-  > ⏱ The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms.
+  <!-- > ⏱ The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms. -->
 
 ---
 
