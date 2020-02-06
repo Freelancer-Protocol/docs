@@ -12,7 +12,9 @@ nav_order: 2
   <img src="/images/freelancerSignUp.png" alt="accessibility text" >
 </div> -->
 
-**Lisa creates a project:** she names it _Steve's website_ and sets _steve@gmail.com_ as the client email.
+**Lisa creates a project:** she names _Steve's website_.
+
+<!-- and sets _steve@gmail.com_ as the client email. -->
 
  <div class ="example-image small">
   <img src="/images/NewProject.png" alt="accessibility text" >
@@ -21,6 +23,10 @@ nav_order: 2
  <!-- <div class ="example-image medium">
   <img src="/images/ProjectCategory.png" alt="accessibility text" >
 </div> -->
+
+ <div class ="example-image small">
+  <img src="/images/EmptyProject.png" alt="accessibility text" >
+</div>
 
 **She populates the project with a milestone** titled _Homepage_. She fills the _Due date_ and _Price_ fields, suggesting respectively a week from now and £250.
 
@@ -36,9 +42,15 @@ Lisa previews the milestone:
   <img src="/images/LisasPreview.png" alt="accessibility text" >
 </div>
 
-She sends it to Steve by clicking on <span class="button blue-gradient" > Accept and Send</span>
+She then sets _steve@gmail.com_ as the client for the whole project.
 
-If Steve has not already signed up to Freelancer Protocol, he'll be sent an invite to join. If he already is a user, he'll receive an email along with a notification:
+ <div class ="example-image medium">
+  <img src="/images/LisaSendingMilestone.png" alt="accessibility text" >
+</div>
+
+She sends it to Steve by clicking on <span class="button blue-gradient" > Send</span>
+
+If Steve has not already signed up to Freelancer Protocol, he'll be sent an invitation to join. If he already is a user, he'll receive an email along with a notification:
 
  <div class ="example-image medium400">
   <img src="/images/StevesEmail.png" alt="accessibility text" >
