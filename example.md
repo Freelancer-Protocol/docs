@@ -16,7 +16,7 @@ nav_order: 2
 
 <!-- and sets _steve@gmail.com_ as the client email. -->
 
- <div class ="example-image small">
+ <div class ="example-image tiny-small">
   <img src="/images/NewProject.png" alt="accessibility text" >
 </div>
 
