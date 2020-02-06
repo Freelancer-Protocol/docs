@@ -13,6 +13,16 @@ body {
   flex-direction: row;
 }
 
+.demo-accepted {
+  font-weight: 500;
+  color: green;
+}
+
+.demo-rejected {
+  font-weight: 500;
+  color: crimson;
+}
+
 .button {
   margin-left: 5px;
   margin-right: 5px;
