@@ -13,23 +13,20 @@ Each milestone  -->
 
 ### Lifecyle of a milestone
 
-1. A milestone start when both parties agree on its terms. The client is charged right away by the platform.
+A milestone start when both parties agree on its terms. The client is charged right away by the platform.
 
-   > 👉 For this reason, the milestone can't start until the client has entered their payment info.
+> 👉 For this reason, the milestone can't start until the client has entered their payment info.
 
 #### If parties agreed on having a demo stage (recommended)
 
-2. The freelancer uploads a demo of the deliverable.
+The freelancer uploads a demo of the deliverable. The client then has to either accept or reject the demo:
 
-3. The client then chooses to either accept or reject the demo:
+- If the <span class="demo-accepted"> demo is accepted</span>, and given the freelancer uploads the deliverable before the milestone deadline, the freelancer will receive full funds and the client will receive the deliverable.
+- If the <span class="demo-rejected"> demo is rejected</span>, the freelancer will only receive an amount corresponding to a third of the milestone price and the client will not receive any deliverable.
 
-If the <span class="demo-accepted"> demo is accepted</span>, and given the freelancer uploads the deliverable before the milestone deadline, the freelancer will receive full funds and the client will receive the deliverable.
+#### If parties agreed on skipping the demo stage
 
-If the <span class="demo-rejected"> demo is rejected</span>, the freelancer will only receive an amount corresponding to a third of the milestone price and the client will not receive any deliverable.
-
-#### If parties agreed on skipping a demo stage
-
-2.  As soon as the freelancer uploads the deliverable, the freelancer receives the money and the freelancer receives the deliverable.
+As soon as the freelancer uploads the deliverable, the freelancer receives the money and the freelancer receives the deliverable.
 
 Note that during a milestone lifetime, anyone of the two parties can request a modification to the milestone. The changes will have to be accepted by the other party in order to become effective.
 
