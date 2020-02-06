@@ -66,7 +66,7 @@ This is what the _Homepage_ milestone looks like to Steve at this point:
   <img src="/images/StevesReceives.png" alt="accessibility text" >
 </div>
 
-Steve chooses to <span class="button secondary-green" > Accept with Modification</span> so that he can write the _Deliverable description_.
+Steve chooses to <span class="button secondary-green" > Modify </span> so that he can write the _Deliverable description_.
 
  <div class ="example-image big">
   <img src="/images/StevesModification.png" alt="accessibility text" >
@@ -110,7 +110,7 @@ Now Lisa will has to approve of the edited milestone. This is what the project l
 
 Steve is now asked to either approve or reject the demo:
 
- <div class ="example-image small long">
+ <div class ="example-image tiny-small long">
   <img src="/images/StevesDemoApproval.png" alt="accessibility text" >
 </div>
 
