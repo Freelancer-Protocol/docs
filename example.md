@@ -102,7 +102,7 @@ Now Lisa will has to approve of the edited milestone. This is what the project l
     </div>
 </div>
 
-**Lisa now has to upload a demo.** It only takes Lisa 3 days to make a static version of the website that's good enough for a demo, so she submits it.
+**Lisa now has to upload a demo.** It only takes Lisa 3 days to make a static version of the page that's good enough for a demo, so she submits it.
 
  <div class ="example-image tiny-small">
   <img src="/images/DemoUpload.png" alt="accessibility text" >
