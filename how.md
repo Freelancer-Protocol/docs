@@ -17,9 +17,19 @@ Each milestone  -->
 
    > 👉 For this reason, the milestone can't start until the client has entered their payment info.
 
-2. The freelancer uploads a demo that the client has to accept for the milestone to go on. If it does, the freelancer will have to upload the deliverable before the milestone deadline.
+#### If parties agreed on having a demo stage (recommended)
 
-3. If the client accepts the demo, he receives the deliverable and the freelancer receives the money.
+2. The freelancer uploads a demo of the deliverable.
+
+3. The client then chooses to either accept or reject the demo:
+
+If the <span class="demo-accepted"> demo is accepted</span>, and given the freelancer uploads the deliverable before the milestone deadline, the freelancer will receive full funds and the client will receive the deliverable.
+
+If the <span class="demo-rejected"> demo is rejected</span>, the freelancer will only receive an amount corresponding to a third of the milestone price and the client will not receive any deliverable.
+
+#### If parties agreed on skipping a demo stage
+
+2.  As soon as the freelancer uploads the deliverable, the freelancer receives the money and the freelancer receives the deliverable.
 
 Note that during a milestone lifetime, anyone of the two parties can request a modification to the milestone. The changes will have to be accepted by the other party in order to become effective.
 
