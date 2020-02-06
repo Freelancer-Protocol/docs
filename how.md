@@ -17,11 +17,12 @@ A milestone start when both parties agree on its terms. The client is charged ri
 
 > 👉 For this reason, the milestone can't start until the client has entered their payment info.
 
-#### If parties agreed on having a demo stage (recommended)
+#### If parties agreed on having a demo stage (**recommended**)
 
 The freelancer uploads a demo of the deliverable. The client then has to either accept or reject the demo:
 
 - If the <span class="demo-accepted"> demo is accepted</span>, and given the freelancer uploads the deliverable before the milestone deadline, the freelancer will receive full funds and the client will receive the deliverable.
+
 - If the <span class="demo-rejected"> demo is rejected</span>, the freelancer will only receive an amount corresponding to a third of the milestone price and the client will not receive any deliverable.
 
 #### If parties agreed on skipping the demo stage
