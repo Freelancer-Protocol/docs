@@ -57,6 +57,4 @@ We charge a flat, 1.5% fee.
 
 ### I don't have a freelancer. Can you help me find one?
 
-    {:toc}
-
 We can try!
