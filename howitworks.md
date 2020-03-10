@@ -8,9 +8,8 @@ has_children: true
 
 ### What are projects and milestones?
 
-A project is between a single freelancer and client.
-Projects are divided into intermediary steps we call milestones.
-Each milestones has a **deliverable** (the work the freelancer has to submit), a **deadline** (when they have to submit it for) and **price** (how much they will get for it).
+A project is between a single freelancer and client, and is divided into intermediary steps we call milestones.  
+Each milestones has a **deliverable** (the work the freelancer has to submit), a **deadline** (when they have to submit it for) and a **price** (how much they will get for it).
 
 👉 Milestones take place once after the other within a project and cannot overlap.
 
