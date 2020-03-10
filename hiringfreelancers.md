@@ -10,7 +10,8 @@ nav_order: 3
 
 For two main reasons:
 
-- **gradually commit and control risk**: freelancer project can be expensive, and it's risky to pay in one or two times. We enable you to break the project down into several smaller milestones.
+- **gradually commit and control risk**: freelancer project can be expensive, and it's risky to pay in one or two times.
+  We enable you to break the project down into several smaller milestones.
 - **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms).
 
 ### Do I get a refund if I'm not happy with the deliverable?
@@ -21,7 +22,8 @@ No, that's why it is important to be aware of the following guidelines:
 
 ⚠️ Start with small milestones if it's your first time working with a freelancer.
 
-You do have the option to 'report this deliverable', and we'll look into it. Note we can only investigate if the deliverable was accurately described to start with.
+You do have the option to 'report this deliverable', and we'll look into it.
+Note we can only investigate if the deliverable was accurately described to start with.
 
 ⚠️ Only accept milestones that accurately describe what the deliverable should be, through the description and attachements.
 

@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: "Overview"
+title: "Home"
 ---
 
 # Freelancer Protocol is a payment tool for freelancers and their clients.
