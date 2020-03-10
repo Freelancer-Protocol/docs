@@ -8,7 +8,7 @@ grand_parent: Index
 ### Can I edit or cancel milestones?
 
 **Before it's been accepted**  
-The freelancer can single-handledly override a milestone (edit) or cancel it.
+The freelancer can single-handedly override a milestone (edit) or cancel it.
 
 **Whan it's been accepted, before it has started**  
 Both parties can cancel the milestone.
