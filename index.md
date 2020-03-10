@@ -5,13 +5,15 @@ has_children: true
 has_toc: false
 ---
 
- <h1 align="center">
- Freelancer Protocol, how freelancers get paid
-  <!-- <img src="/images/logo.png" alt="accessibility text"> -->
+ <h1 class = "brand-bit" align="center">
+   <img src="/images/logo.png" alt="accessibility text">
+
+Freelancer Protocol
+
 </h1>
 
-<!-- How freelancers get paid
-{: .fs-6 .fw-300 } -->
+How freelancers get paid
+{: .fs-6 .fw-300 }
 
  <p align="center">
   <img src="/images/logo.png" alt="accessibility text">
