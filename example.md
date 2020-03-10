@@ -1,8 +1,7 @@
 ---
 nav_order: 2
----
-
-## A concrete example
+nav_exclude: true
+---## A concrete example
 
 **Lisa is a freelancer and Steve is her client.** Steve needs Lisa to build him a brand new website.
 

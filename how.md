@@ -1,8 +1,8 @@
 ---
 nav_order: 3
----
 
-## How it works
+nav_exclude: true
+---## How it works
 
 ### Projects and Milestones
 
