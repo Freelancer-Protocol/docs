@@ -1,4 +1,5 @@
 ---
+parent: Index
 title: For clients
 nav_order: 3
 has_children: true

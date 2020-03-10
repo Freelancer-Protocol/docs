@@ -1,7 +1,7 @@
 ---
-nav_order: 6
+nav_order: 1
 title: "Home"
-nav_exclude: true
+has_children: true
 ---
 
  <h1 align="center">
