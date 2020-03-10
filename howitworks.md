@@ -31,6 +31,13 @@ The freelancer can send his client a request for change. The new milestone will 
 
 If the project has already been accepted, the freelancer has to send a request for change his client will have to accept. -->
 
+---
+
+parent: How it works
+nav_order: 1
+
+---
+
 ### How do payments get made?
 
 Clients get charged and freelancers get paid throughout a project.
