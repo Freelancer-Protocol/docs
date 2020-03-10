@@ -2,7 +2,7 @@
 nav_order: 1
 title: Index
 has_children: true
-show_toc: true
+show_toc: false
 ---
 
  <h1 align="center">
