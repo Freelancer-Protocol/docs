@@ -4,19 +4,6 @@ nav_order: 4
 
 ## I'm hiring freelancers
 
-<ol>
-
-<li>yolo</li>
-{:toc}
-
-</ol>
-
-1. one
-   {:toc}
-
-2. two
-   {:toc}
-
 ### Why is Freelancer Protocol useful for me?
 
 - **Control the risk by gradually committing**  
@@ -25,10 +12,6 @@ nav_order: 4
   No more late deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept your new terms).
 
 ### Do I get a refund if I'm not happy with the deliverable?
-
-## One
-
-## Two
 
 No, that's why it is important to be aware of the following guidelines:
 
@@ -56,13 +39,9 @@ Once you're comftorable with the -->
 
 ### Do you store my credit card information?
 
-{:toc}
-
-No. We partner with Stripe and your payment info is never stored on our servers.
+No. We use Stripe for payments and your payment info is never stored on our servers.
 
 ### How much does this cost?
-
-{:toc}
 
 We charge a flat, 1.5% fee.
 
