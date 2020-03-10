@@ -26,6 +26,10 @@ nav_order: 4
 
 ### Do I get a refund if I'm not happy with the deliverable?
 
+## One
+
+## Two
+
 No, that's why it is important to be aware of the following guidelines:
 
 ⚠️ You never commit more that the amount of the current milestone, so start with small milestones if it's your first time working with a freelancer.
