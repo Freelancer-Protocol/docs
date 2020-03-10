@@ -1,7 +1,7 @@
 ---
 parent: For clients
 nav_order: 4
-title: On credit card information
+title: On credit card info
 grand_parent: Index
 ---
 
