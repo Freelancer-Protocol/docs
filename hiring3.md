@@ -1,10 +1,10 @@
 ---
 parent: For clients
 nav_order: 3
-title: On credit card information
+title: I'm looking for a freelancer
 grand_parent: Index
 ---
 
-### Do you store my credit card information?
+### I don't have a freelancer. Can you help me find one?
 
-No. We use Stripe for payments and your payment info is never stored on our servers.
+We can try! We interact with different types of freelancers on a daily basis, so [send us an email](mailto:hello@freelancerprotocol.com) and we'll try do our best.
