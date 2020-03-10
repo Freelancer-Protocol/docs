@@ -14,4 +14,4 @@ The freelancer can single-handedly override a milestone (edit) or cancel it.
 Both parties can cancel the milestone.
 
 **Once the milestone has started**  
-The freelancer can send his client a request for change. The new milestone will only take over the existing one if the client accepts it.
+The freelancer can send their client a request for change. The new milestone will only take over the existing one if the client accepts it.
