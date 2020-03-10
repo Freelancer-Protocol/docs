@@ -1,55 +1,61 @@
 ---
-nav_order: 3
-
-nav_exclude: true
----## How it works
-
-### Projects and Milestones
-
-A project has one client and one freelancer, and is divided into milestones. Each milestones has its own associated deliverable, price and deadline.
-
- <!-- The project is divided into one or more milestones.
-Each milestone  -->
-
-### Lifecyle of a milestone
-
-A milestone start when both parties agree on its terms. The client is charged right away by the platform.
-
-> 👉 For this reason, the milestone can't start until the client has entered their payment info.
-
-#### If parties agreed on having a demo stage (**recommended**)
-
-The freelancer uploads a demo of the deliverable. The client then has to either accept or reject the demo:
-
-- If the <span class="demo-accepted"> demo is accepted</span>, and given the freelancer uploads the deliverable before the milestone deadline, the freelancer will receive full funds and the client will receive the deliverable.
-
-- If the <span class="demo-rejected"> demo is rejected</span>, the freelancer will only receive an amount corresponding to a third of the milestone price and the client will not receive any deliverable.
-
-#### If parties agreed on skipping the demo stage
-
-As soon as the freelancer uploads the deliverable, the freelancer receives the money and the freelancer receives the deliverable.
-
-Note that during a milestone lifetime, anyone of the two parties can request a modification to the milestone. The changes will have to be accepted by the other party in order to become effective.
-
-## If things go south
-
-### 1. If the client rejects the demo
-
-Only a third of the agreed sum for the milestone is paid to the freelancer. The rest is paid back to the client.
-
-> ⚠️ A client who repeatedly rejects demos that follow their own instructions (outlined in the milestone description and enclosed designs) is facing exclusion from the platform.
-
-> ⚠️ In the same way, a freelancer who uploads misleading demos of deliverables also faces exclusion.
-
-### 2. If the freelancer is late
-
-If both the demo and the deliverable are not uploaded by the milestone deadline, the client is free to either:
-
-- cancel the milestone and get the entire sum back
-- extend the milestone by assigning it a new deadline
-
-  <!-- > ⏱ The client can charge late fees by changing the milestone amount, but the freelancer will have to agree to those new terms. -->
-
+title: How it works
+nav_order: 2
+# has_children: true
 ---
 
-Go to [Freelancer Protocol](https://www.freelancerprotocol.com/).
+## How it works
+
+### What are projects and milestones?
+
+A project is between a single freelancer and client, and is divided into intermediary steps we call milestones.
+
+Each milestone has:
+
+- a **deliverable** (the work the freelancer has to submit)
+- a **deadline** (when they have to submit it for)
+- a **price** (how much they will get paid for it).
+
+👉 Milestones take place once after the other within a project and cannot overlap.
+
+<!-- ### Can I cancel or edit a milestone or project? -->
+
+<!-- Both parties can cancel a whole project or any of its milestones before they start. A freelancer can override a project that hasn't been accepted yet.
+
+If the project has already been accepted, the freelancer has to send a request for change his client will have to accept. -->
+
+### How do payments get made?
+
+Clients get charged and freelancers get paid throughout a project.
+
+1. We charge the client at the start of each milestone.
+2. Funds get transfered to the freelancer when they upload the deliverable.
+3. We refund the client in full if the freelancer hasn't uploaded the deliverable by the deadline.
+
+### Why this mechanism?
+
+1. To enable gradual commitment (of time for the freelancer and money for the client)
+2. So that the freelancer is paid on time and with 100% certainty
+3. So that the client is free to cancel a late project
+
+### Can I edit or cancel milestones?
+
+**Before it's been accepted**  
+The freelancer can single-handledly override a milestone (edit) or cancel it.
+
+**Whan it's been accepted, before it has started**  
+Both parties can cancel the milestone.
+
+**Once the milestone has started**  
+The freelancer can send his client a request for change. The new milestone will only take over the existing one if the client accepts it.
+
+<!-- ### Why do you hold funds?
+
+Only way to guaranty:
+
+-
+
+It enables gradual commitment on both sides. At any given point, both parties are only committed as far as the current milestone goes,
+
+Just risking as much as the current ongoing milestone. Each side is only committed as far.
+Client and freelancer do not -->
