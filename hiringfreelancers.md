@@ -42,18 +42,20 @@ How big should I make the milestones ?
 Depends on the kind of type of work, but usually 4-5 hours of freelancer's work is a minimum to start with.
 Once you're comftorable with the -->
 
-2. Do you store my credit card information?
-   {:toc}
+### Do you store my credit card information?
+
+{:toc}
 
 No. We partner with Stripe and your payment info is never stored on our servers.
 
-3. How much does this cost?
-   {:toc}
+### How much does this cost?
+
+{:toc}
 
 We charge a flat, 1.5% fee.
 
-4.  I don't have a freelancer. Can you help me find one?
+### I don't have a freelancer. Can you help me find one?
 
-{:toc}
+    {:toc}
 
 We can try!
