@@ -3,15 +3,18 @@ nav_order: 1
 title: "Home"
 ---
 
-# Freelancer Protocol is a payment tool for freelancers and their clients.
+# Freelancer Protocol
 
-<!-- It's simple of use, free and fair to freelancer and client. -->
-<!--
-{: .fs-6 .fw-300 }
+How freelancers get paid {: .fs-6 .fw-300 }
 
  <p align="center">
   <img src="/images/logo.png" alt="accessibility text">
 </p>
+
+<!--
+{: .fs-6 .fw-300 }
+
+
 
 ---
 
