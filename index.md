@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: "Home"
+title: Index
 has_children: true
 ---
 
