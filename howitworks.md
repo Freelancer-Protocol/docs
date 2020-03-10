@@ -8,7 +8,8 @@ has_children: true
 
 ### What are projects and milestones?
 
-A project is between a single freelancer and client, and is divided into intermediary steps we call milestones.  
+A project is between a single freelancer and client, and is divided into intermediary steps we call milestones.
+
 Each milestones has a **deliverable** (the work the freelancer has to submit), a **deadline** (when they have to submit it for) and a **price** (how much they will get for it).
 
 👉 Milestones take place once after the other within a project and cannot overlap.
@@ -16,6 +17,7 @@ Each milestones has a **deliverable** (the work the freelancer has to submit), a
 ### Can I cancel or edit a milestone?
 
 Both parties can cancel milestones before they start. A freelancer can override a project that hasn't been accepted yet.
+
 If it has been accepted, the freelancer has to send a request for change his client will have to accept.
 
 ### How do payments get made?
