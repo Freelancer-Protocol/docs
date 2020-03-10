@@ -4,4 +4,4 @@ nav_order: 1
 has_children: true
 ---
 
-Freelancer Protocol is a payment tool for freelancers and their clients.
+### Freelancer Protocol is a payment tool for freelancers and their clients.
