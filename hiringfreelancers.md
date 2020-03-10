@@ -15,8 +15,7 @@ For two main reasons:
 - **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms).
 
 1. Do I get a refund if I'm not happy with the deliverable?
-
-{:toc}
+   {:toc}
 
 No, that's why it is important to be aware of the following guidelines:
 
@@ -43,8 +42,7 @@ Depends on the kind of type of work, but usually 4-5 hours of freelancer's work 
 Once you're comftorable with the -->
 
 2. Do you store my credit card information?
-
-{:toc}
+   {:toc}
 
 No. We partner with Stripe and your payment info is never stored on our servers.
 
