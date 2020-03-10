@@ -13,6 +13,10 @@ body {
   flex-direction: row;
 }
 
+.text-small.text-grey-dk-000.mb-4 {
+  display: none;
+}
+
 .demo-accepted {
   font-weight: 500;
   color: green;

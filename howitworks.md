@@ -1,5 +1,7 @@
 ---
+title: How it works
 nav_order: 2
+has_children: true
 ---
 
 ## How it works
