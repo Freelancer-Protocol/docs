@@ -48,4 +48,4 @@ We charge a flat, 1.5% fee.
 
 ### I don't have a freelancer. Can you help me find one?
 
-We can try!
+We can try! We interact with different types of freelancers on a daily basis, so send us an email at hello@freelancerprotocol.com and we'll try do our best.
