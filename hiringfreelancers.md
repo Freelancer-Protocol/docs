@@ -4,15 +4,17 @@ nav_order: 4
 
 ## I'm hiring freelancers
 
-### Why should I use Freelancer Protocol?
+### Why is Freelancer Protocol useful for me?
 
 {:toc}
 
 For two main reasons:
 
-- **gradually commit and control risk**: freelancer project can be expensive, and it's risky to pay in one or two times.
+- **gradually commit and control risk**
+  Freelancer project can be expensive, and it's risky to pay in one or two times.  
   We enable you to break the project down into several smaller milestones.
-- **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms).
+- **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms  
+  ).
 
 ### Do I get a refund if I'm not happy with the deliverable?
 
