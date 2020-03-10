@@ -13,7 +13,7 @@ Each milestone has:
 
 - a **deliverable** (the work the freelancer has to submit)
 - a **deadline** (when they have to submit it for)
-- a **price** (how much they will get paid for it).
+- a **price** (how much they will get paid for it)
 
 👉 Milestones take place once after the other within a project and cannot overlap.
 
