@@ -19,9 +19,8 @@ has_toc: false
 
 </div>
 
- <div class ="subtitle">
+ <div class ="subtitle" style ='text-align: center;'>
 How freelancers get paid
-
 </div>
 
 <!-- {: .fs-6 .fw-300 } -->
