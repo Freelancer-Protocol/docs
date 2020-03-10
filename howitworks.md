@@ -1,7 +1,7 @@
 ---
 title: How it works
 nav_order: 2
-has_children: true
+# has_children: true
 ---
 
 ## How it works
@@ -10,7 +10,11 @@ has_children: true
 
 A project is between a single freelancer and client, and is divided into intermediary steps we call milestones.
 
-Each milestones has a **deliverable** (the work the freelancer has to submit), a **deadline** (when they have to submit it for) and a **price** (how much they will get for it).
+Each milestone has:
+
+- a **deliverable** (the work the freelancer has to submit)
+- a **deadline** (when they have to submit it for)
+- a **price** (how much they will get paid for it).
 
 👉 Milestones take place once after the other within a project and cannot overlap.
 
