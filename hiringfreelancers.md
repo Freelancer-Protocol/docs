@@ -4,31 +4,38 @@ nav_order: 4
 
 ## I'm hiring freelancers
 
-### Why is Freelancer Protocol useful for me?
+<ol>
 
+<li>yolo</li>
 {:toc}
 
-For two main reasons:
+</ol>
 
-- **gradually commit and control risk**  
+1. one
+   {:toc}
+
+2. two
+   {:toc}
+
+### Why is Freelancer Protocol useful for me?
+
+- **Control the risk by gradually committing**  
   Freelancer projects get expensive, and it's usually risky to pay in one or two times. We enable you to break the project down into several smaller milestones.
-- **get your work on time**  
-  No more late deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms).
+- **Have your tasks delivered on time**  
+  No more late deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept your new terms).
 
 ### Do I get a refund if I'm not happy with the deliverable?
 
-{:toc}
-
 No, that's why it is important to be aware of the following guidelines:
 
-⚠️ Start with small milestones if it's your first time working with a freelancer.
+⚠️ You never commit more that the amount of the current milestone, so start with small milestones if it's your first time working with a freelancer.
 
-You do have the option to 'report this deliverable', and we'll look into it.
-Note we can only investigate if the deliverable was accurately described to start with.
+If you're unhappy with a deliverable, you do have the option to 'report this deliverable', and we'll look into it.
+Note we can only investigate if the deliverable was accurately described to start with, so:
 
 ⚠️ Only accept milestones that accurately describe what the deliverable should be, through the description and attachements.
 
-We reserve the full right to exclude freelancer whose deliverable consistently get reported and differ from their description.
+We reserve the full right to exclude any freelancer whose deliverable consistently get reported and differ from their description.
 
 <!-- > In the same way, a freelancer who uploads misleading demos of deliverables also faces exclusion. -->
 
