@@ -5,7 +5,8 @@ title: "Home"
 
 # Freelancer Protocol
 
-How freelancers get paid {: .fs-6 .fw-300 }
+How freelancers get paid
+{: .fs-6 .fw-300 }
 
  <p align="center">
   <img src="/images/logo.png" alt="accessibility text">
