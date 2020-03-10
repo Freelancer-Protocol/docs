@@ -14,7 +14,7 @@ has_toc: false
    </div>
 
  <div class ="brand-title">
- Freelancer Protocol 2.11
+ Freelancer Protocol 2.12
 </div>
 
 </div>
