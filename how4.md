@@ -7,4 +7,4 @@ grand_parent: Index
 
 ### How much does this cost?
 
-We charge a transparent flat 1.5% fee.
+We charge a flat 1.5% fee.
