@@ -10,7 +10,9 @@ title: If I'm not happy with the deliverable
 
 No, that's why it is important to be aware of the following guidelines:
 
-⚠️ You never commit more that the amount of the current milestone, so start with small milestones if it's your first time working with a freelancer.
+⚠️ Start with small milestones if it's your first time working with a freelancer.
+
+Remember you're never commited to more than the current milestone amount.
 
 If you're unhappy with a deliverable, you do have the option to 'report this deliverable', and we'll look into it.
 Note we can only investigate if the deliverable was accurately described to start with, so:
