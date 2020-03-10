@@ -1,13 +1,12 @@
 ---
 nav_order: 4
-has_children: true
 ---
 
 ## I'm hiring freelancers
 
 ### Why should I use Freelancer Protocol?
 
-{:toc}
+{: .no_toc }
 
 For two main reasons:
 
