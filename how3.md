@@ -2,6 +2,7 @@
 title: Making changes
 nav_order: 3
 parent: How it works
+grand_parent: Index
 ---
 
 ### Can I edit or cancel milestones?

@@ -2,6 +2,7 @@
 title: Payments
 nav_order: 2
 parent: How it works
+grand_parent: Index
 ---
 
 ### How do payments get made?
@@ -17,4 +18,3 @@ Clients get charged and freelancers get paid throughout a project.
 1. To enable gradual commitment (of time for the freelancer and money for the client)
 2. So that the freelancer is paid on time and with 100% certainty
 3. So that the client is free to cancel a late project
-

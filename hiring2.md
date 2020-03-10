@@ -2,6 +2,7 @@
 parent: For clients
 nav_order: 2
 title: I'm looking for a freelancer
+grand_parent: Index
 ---
 
 ### I don't have a freelancer. Can you help me find one?

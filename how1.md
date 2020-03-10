@@ -2,6 +2,7 @@
 title: Project and milestones
 nav_order: 1
 parent: How it works
+grand_parent: Index
 ---
 
 ### What are projects and milestones?
