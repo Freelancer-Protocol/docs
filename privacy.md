@@ -11,9 +11,13 @@ Your privacy is important to us. It is Dum Technology's policy to respect your p
 ### Log data
 
 When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
-Device data
+
+### Device data
+
 We may also collect data about the device you’re using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
-Personal information
+
+### Personal information
+
 We may ask for personal information, such as your:
 
 Name, Email, Social media profiles, Phone/mobile number, Home/Mailing address, Work address, Payment information
