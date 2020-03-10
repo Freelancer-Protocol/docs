@@ -10,9 +10,8 @@ nav_order: 4
 
 For two main reasons:
 
-- **gradually commit and control risk**
-  Freelancer project can be expensive, and it's risky to pay in one or two times.  
-  We enable you to break the project down into several smaller milestones.
+- **gradually commit and control risk**  
+  Freelancer projects get expensive, and it's usually risky to pay in one or two times. We enable you to break the project down into several smaller milestones.
 - **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms  
   ).
 
