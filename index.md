@@ -5,9 +5,9 @@ has_children: true
 has_toc: false
 ---
 
- <div class = "brand-bit" align="center">
+ <div class ="brand-bit" align="center">
 
- <div class = "img-container">
+ <div class ="img-container">
 
    <img src="/images/logo.png" alt="accessibility text">
 
@@ -17,7 +17,7 @@ Freelancer Protocol =1
 
 </div>
 
- <div class = "subtitle">
+ <div class ="subtitle">
 How freelancers get paid
 
 </div>
