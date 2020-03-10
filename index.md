@@ -1,12 +1,13 @@
 ---
 nav_order: 1
 title: "Home"
+nav_exclude: true
 ---
 
-# Freelancer Protocol
+# Freelancer Protocol, how freelancers get paid
 
-How freelancers get paid
-{: .fs-6 .fw-300 }
+<!-- How freelancers get paid
+{: .fs-6 .fw-300 } -->
 
  <p align="center">
   <img src="/images/logo.png" alt="accessibility text">
