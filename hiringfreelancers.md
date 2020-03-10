@@ -14,7 +14,7 @@ For two main reasons:
   We enable you to break the project down into several smaller milestones.
 - **get your work on time**: no more waiting for deliverables. You're free to cancel the project if the freelancer hasn't uploaded anything by the deadline. You can also change the scope of the project, for exemple to charge late fees (freelancer will need to accept the new terms).
 
-### Do I get a refund if I'm not happy with the deliverable?
+1. Do I get a refund if I'm not happy with the deliverable?
 
 {:toc}
 
@@ -42,19 +42,19 @@ How big should I make the milestones ?
 Depends on the kind of type of work, but usually 4-5 hours of freelancer's work is a minimum to start with.
 Once you're comftorable with the -->
 
-### Do you store my credit card information?
+2. Do you store my credit card information?
 
 {:toc}
 
 No. We partner with Stripe and your payment info is never stored on our servers.
 
-### How much does this cost?
+3. How much does this cost?
 
 {:toc}
 
 We charge a flat, 1.5% fee.
 
-### I don't have a freelancer. Can you help me find one?
+4.  I don't have a freelancer. Can you help me find one?
 
 {:toc}
 
