@@ -1,8 +1,7 @@
 ---
 title: Project and milestones
 nav_order: 1
-# has_children: true
-has_parent: true
+parent: How it works
 ---
 
 ### What are projects and milestones?
