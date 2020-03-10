@@ -13,7 +13,7 @@ has_toc: false
 
    </div>
 
-Freelancer Protocol =1
+Freelancer Protocol 2
 
 </div>
 
