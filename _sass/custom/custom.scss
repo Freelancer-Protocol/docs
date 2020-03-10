@@ -22,6 +22,12 @@ body {
   }
 }
 
+.subtitle {
+  font-weight: 800;
+  font-size: 24px;
+  color: #4d535a;
+}
+
 .fs-6 {
   @include fs-6;
 }
