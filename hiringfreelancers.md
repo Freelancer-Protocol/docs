@@ -47,8 +47,7 @@ Once you're comftorable with the -->
 No. We partner with Stripe and your payment info is never stored on our servers.
 
 3. How much does this cost?
-
-{:toc}
+   {:toc}
 
 We charge a flat, 1.5% fee.
 
