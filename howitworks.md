@@ -14,11 +14,11 @@ Each milestones has a **deliverable** (the work the freelancer has to submit), a
 
 👉 Milestones take place once after the other within a project and cannot overlap.
 
-### Can I cancel or edit a milestone?
+### Can I cancel or edit a milestone or project?
 
-Both parties can cancel milestones before they start. A freelancer can override a project that hasn't been accepted yet.
+Both parties can cancel a whole project or any of its milestones before they start. A freelancer can override a project that hasn't been accepted yet.
 
-If it has been accepted, the freelancer has to send a request for change his client will have to accept.
+If the project has already been accepted, the freelancer has to send a request for change his client will have to accept.
 
 ### How do payments get made?
 
