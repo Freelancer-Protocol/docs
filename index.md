@@ -20,7 +20,7 @@ has_toc: false
 </div>
 
  <div class ="subtitle" style ='text-align: center;'>
-How freelancers get paid
+ Freelancer Protocol, how freelancers get paid
 </div>
 
 <!-- {: .fs-6 .fw-300 } -->
