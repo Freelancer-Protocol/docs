@@ -4,6 +4,24 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
     sans-serif, Apple Color Emoji, Segoe UI Emoji;
 }
+
+.brand-bit {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-right: auto;
+  margin-left: auto;
+
+  .img-container {
+    width: 48px;
+    height: 48px;
+
+    img {
+      height: 100%;
+    }
+  }
+}
+
 .fs-6 {
   @include fs-6;
 }

@@ -6,6 +6,9 @@ has_toc: false
 ---
 
  <h1 class = "brand-bit" align="center">
+
+ <div class = "img-container"></div>
+
    <img src="/images/logo.png" alt="accessibility text">
 
 Freelancer Protocol
@@ -16,7 +19,7 @@ How freelancers get paid
 {: .fs-6 .fw-300 }
 
  <p align="center">
-  <img src="/images/logo.png" alt="accessibility text">
+  <img src="/images/coder.png" alt="accessibility text">
 </p>
 
 <!--
