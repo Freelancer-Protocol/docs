@@ -1,10 +1,10 @@
 ---
-title: I'm hiring freelancers
+title: For clients
 nav_order: 3
 has_children: true
 ---
 
-## I'm hiring freelancers
+## For clients
 
 ### Why is Freelancer Protocol useful for me?
 

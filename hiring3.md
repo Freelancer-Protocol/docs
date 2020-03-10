@@ -1,5 +1,5 @@
 ---
-parent: I'm hiring freelancers
+parent: For clients
 nav_order: 1
 title: What if I'm not happy with the deliverable
 ---
