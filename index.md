@@ -4,7 +4,10 @@ title: "Home"
 nav_exclude: true
 ---
 
-# Freelancer Protocol, how freelancers get paid
+ <h1 align="center">
+ Freelancer Protocol, how freelancers get paid
+  <!-- <img src="/images/logo.png" alt="accessibility text"> -->
+</h1>
 
 <!-- How freelancers get paid
 {: .fs-6 .fw-300 } -->
