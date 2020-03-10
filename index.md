@@ -5,7 +5,7 @@ has_children: true
 has_toc: false
 ---
 
- <h1 class = "brand-bit" align="center">
+ <div class = "brand-bit" align="center">
 
  <div class = "img-container">
 
@@ -13,9 +13,9 @@ has_toc: false
 
    </div>
 
-Freelancer Protocol
+Freelancer Protocol =1
 
-</h1>
+</div>
 
  <div class = "subtitle">
 How freelancers get paid
@@ -24,9 +24,9 @@ How freelancers get paid
 
 <!-- {: .fs-6 .fw-300 } -->
 
- <p align="center">
+ <div class="main-image" align="center">
   <img src="/images/coder.png" alt="accessibility text">
-</p>
+</div>
 
 <!--
 {: .fs-6 .fw-300 }
