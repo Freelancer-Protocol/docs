@@ -20,4 +20,4 @@ Note we can only investigate if the deliverable was accurately described to star
 
 ⚠️ Only accept milestones that accurately describe what the deliverable should be, through the description and attachements.
 
-We reserve the full right to exclude any freelancer whose deliverable consistently get reported and differ from their description.
+We reserve the full right to exclude any freelancer whose deliverables consistently get reported and differ from their description.
