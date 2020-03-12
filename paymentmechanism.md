@@ -19,5 +19,6 @@ Clients get charged and freelancers get paid throughout a project.
 2. So that the freelancer is paid on time and with 100% certainty
 3. So that the client is free to cancel a late project
 
-We keep you informed throughout the project.
-You'll here from us when projects get sent and accepted and milestone start or end. We also send reminders, for example 24 hours before a milestone starts.
+📩 We keep you informed throughout the project.
+
+_You'll here from us when projects get sent and accepted and milestone start or end. We also send reminders, for example 24 hours before a milestone starts._
