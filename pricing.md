@@ -11,7 +11,7 @@ We charge the client a flat 1.5% fee on top of <a href="https://stripe.com/gb/pr
 
 <!-- Here's a table, for any currency: -->
 
-| In any currency                 |       |      |
+| In \$, £ or €                   |       |      |
 | ------------------------------- | ----- | ---- |
 | Project price                   | 500   | 1000 | 2000 |
 | Our fees (1.5%)                 | 8     | 16   | 32 |
