@@ -11,9 +11,9 @@ We charge the client a flat 1.5% fee on top of <a href="https://stripe.com/gb/pr
 
 <!-- Here's a table, for any currency: -->
 
-| Reference points (\$, £ and € supported) |       |       |
-| ---------------------------------------- | ----- | ----- |
-| Project price                            | 500   | 1,000 | 2,000 |
-| Our fee (1.5%)                           | 8     | 16    | 32 |
-| Standard processing fees (2.9%)          | 14.5  | 29    | 58 |
-| Total paid by client                     | 522.5 | 1,045 | 2,090 |
+| Reference points (\$, £ and € supported)    |       |       |
+| ------------------------------------------- | ----- | ----- |
+| Project price (freelancer gets full amount) | 500   | 1,000 | 2,000 |
+| Freelancer Protocol fee (1.5%)              | 8     | 16    | 32 |
+| Standard processing fees (2.9%)             | 14.5  | 29    | 58 |
+| Total paid by client                        | 522.5 | 1,045 | 2,090 |
