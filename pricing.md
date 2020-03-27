@@ -9,6 +9,8 @@ grand_parent: Index
 
 **We charge the client a flat 1.5% fee on top of <a href="https://stripe.com/gb/pricing#pricing-details" target="_blank">standard processing fees</a>.**
 
+<br/>
+<br/>
 <!-- Here's a table, for any currency: -->
 
 | Reference points (\$, £ and € supported) |       |       |
