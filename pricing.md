@@ -19,3 +19,8 @@ grand_parent: Index
 | Freelancer Protocol fee (1.5%)           | 8     | 16    | 32 |
 | Standard processing fees (2.9%)          | 14.5  | 29    | 58 |
 | Total paid by client                     | 522.5 | 1,045 | 2,090 |
+
+<br/>
+<br/>
+
+[Go back to Freelancer Protocol](https://www.freelancerprotocol.com/?pr)
