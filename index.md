@@ -26,7 +26,7 @@ has_toc: false
 <!-- {: .fs-6 .fw-300 } -->
 
  <div class="main-image" align="center">
-  <img src="/images/coder.png" alt="accessibility text">
+  <img src="/images/long.png" alt="accessibility text">
 </div>
 
 <!--
