@@ -7,4 +7,4 @@ grand_parent: Index
 
 ### Do you store my credit card information?
 
-No. We use Stripe for payments and your payment informantion is never stored on our servers.
+No. We use Stripe for payments and your payment information is never stored on our servers.
