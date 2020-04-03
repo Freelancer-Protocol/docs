@@ -13,12 +13,12 @@ grand_parent: Index
 <br/>
 <!-- Here's a table, for any currency: -->
 
-| Reference points (\$, £ and € supported) |       |       |
-| ---------------------------------------- | ----- | ----- |
-| Project price (what freelancer gets)     | 500   | 1,000 | 2,000 |
-| Freelancer Protocol fee (2%)             | 10    | 20    | 40 |
-| Standard processing fees (2.9%)          | 14.5  | 29    | 58 |
-| Total paid by client                     | 524.5 | 1,049 | 2,098 |
+| Reference points (\$, £ and € supported) |       |       |        |
+| ---------------------------------------- | ----- | ----- | ------ |
+| Project price (what freelancer gets)     | 500   | 2,000 | 10,000 |
+| Freelancer Protocol fee (2%)             | 10    | 40    | 200    |
+| Standard processing fees (2.9%)          | 14.5  | 58    | 290    |
+| Total paid by client                     | 524.5 | 2,098 | 10,490 |
 
 <br/>
 <br/>
