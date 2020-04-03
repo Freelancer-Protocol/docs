@@ -8,11 +8,9 @@ title: What if I'm not happy with the deliverable?
 
 ### What if I'm not happy with the deliverable?
 
-**If you're unhappy with a deliverable, we strongly encourage you to use _report this deliverable_ option, and we'll look into it.**
+**We strongly encourage you to use the _report this deliverable_ option (or to [send us an email](mailto:hello@freelancerprotocol.com) ) , and we'll investigate.**
 
-Note we can only investigate if the deliverable was accurately described to start with, so please:
-
-⚠️ Only accept milestones that accurately describe what the deliverable should be, through the description and attachements.
+⚠️ Note we can only do this if the deliverable was accurately described to start with, so make sure you only accept milestones that accurately describe what the deliverable should be, through the description and attachements.
 
 We reserve the full right to exclude any freelancer whose deliverables consistently get reported and differ from their description.
 
