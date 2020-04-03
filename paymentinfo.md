@@ -1,6 +1,6 @@
 ---
-parent: For clients
-nav_order: 4
+parent: How it works
+nav_order: 5
 title: On payment information
 grand_parent: Index
 ---
